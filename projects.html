@@ -52,38 +52,44 @@
               	
 				<div class="well"> 
               	<ul class="nav nav-stacked" id="sidebar">
-                  <li><a href="#sec1">Database Processing on GPUs</a></li>
-                  <li><a href="#sec2">Database Algorithms for Modern CPU Memory Hierarchies</a></li>
-                  <li><a href="#sec3">Project 3</a></li>
-                  <li><a href="#sec4">Project 4</a></li>
+                  <li><a href="#sec1">Current Projects</a></li>
+                  <li><a href="#sec2">Recent Past Projects</a></li>
               	</ul>
   				</div>
 
       		</div>  
       		<div class="col-md-9">
 
-             	<h2 id="sec1">Database Processing on GPUs</h2>
-              	<p>
-                Modern GPUs offer more parallelism and higher memory bandwidth than CPUs. This project aims to take advantage of these properties by developing a system to efficiently process database queries over GPU-resident datasets. To achieve this goal this project employs the following approaches: (a) The development of novel indexing techniques that combine multidimensional partitioning with block-oriented bitmaps, and whose parameters are sensitive to the query distribution; (b) The optimization of memory bank contention and value contention between threads; (c) The efficient implementation of a complete set of relational database operators, including aggregation, joins, and indexed selections; (d) The evaluation of the performance of the system on query-intensive workloads, using real applications and standard benchmarks. Improvements in database system performance would have wide-ranging impact on the efficiency of many enterprises that employ database systems for analytics. The project supports PhD students working on database system implementation techniques. The innovations and software created during the project will be used to enhance the curriculum of the Database Systems Implementation course at Columbia University. Publications, software, and other project data will be disseminated via the web at our project web site (http://www.cs.columbia.edu/~kar/gpuproject.html). 
-              	</p>
+             	<h3 id="sec1">Current Projects</h2>
+              	
+<ul>
+							<li><a href="http://extraction.cs.columbia.edu/">Information Extraction at Columbia</a></li>
+							<li>Event Identification in Social Media</li>
+
+							<li><a href="http://www.cs.columbia.edu/~kar/cpumem.html">Database Algorithms for Modern CPU Memory Hierarchies</a></li>
+							<li><a href="http://arcade.cs.columbia.edu/dpu">DPU: Database Processing Unit</a></li>
+							<li><a href="http://www.cs.columbia.edu/~kar/gpuproject.html">Database Processing on GPUs</a></li>
+						</ul>
          
               	<hr>
               
-              	<h2 id="sec2">Database Algorithms for Modern CPU Memory Hierarchies</h2>
-              	<p>
-                 A modern database server typically runs on a cluster of machines with a large amount of RAM, to ensure fast query responses when the commonly accessed data (or even the whole database) can fit in main memory. Data may reside in remote or local memory, or in one of several levels of cache; each type of memory has its own characteristic size and performance properties. The project will develop query processing algorithms and a query processing system tailored to such memory hierarchies. Analytic database systems have emerged as a key technology for extracting actionable information from big data collections ranging from medicine to science to business. Improvements in the performance of core database operations achieved by the project will have impact on many application domains. The project will also contribute to education by contributing technology for use in teaching database system implementation techniques.
-</p>
-                <p>
-The project will develop a database architecture with efficient partitioning as the core operation, using different partitioning techniques at each level of the memory hierarchy. In-place partitioning will be employed where appropriate to avoid allocating extra memory, with only a small decrease in partitioning speed. Partitioning will be used as a building block for other operators such as sorting, joins and aggregation. A variety of database algorithms will be implemented, taking advantage of the efficiency of partitioning to perform well at scale. Network transfer volumes will be reduced using specialized join algorithms, since such transfers are likely to be the bottleneck for queries involving large distributed joins. These algorithms will form the basis of a database system prototype to be developed during the course of the project. The project will provide new techniques to exploit modern machines for efficient analytic query processing. The proposed system will significantly improve the throughput of data-intensive queries. 
-              	</p>
+              	<h3 id="sec2">Recent Past Projects</h2>
+              	<ul>
+							<li><a href="http://www.cs.columbia.edu/~kar/mapd.html">Database Parallelism on Multicore Machines</a></li>
+							<li><a href="http://www.cs.columbia.edu/~kar/snapshot.html">Rapid Updates and Snapshot-Based Queries Using Multicore Processors</a></li>
+							<li><a href="http://www.cs.columbia.edu/~kar/fastqueryproj.html">The Columbia Fast Query Project</a></li>
+							<li><a href="http://www1.cs.columbia.edu/~allen/ITR/itr2.html">Computational Tools for Modeling, Visualizing and Analyzing Historic and Archaeological Sites</a></li>
+							<li><a href="http://www.learn.columbia.edu/bourbonnais">Romanesque Architecture of the Bourbonnais: Tools for Discovery</a></li>
+							<li><a href="http://magnet.c2b2.columbia.edu/">Multiscale Analysis of Genomic and Cellular Networks</a></li>
+							<li><a href="http://rank.cs.columbia.edu/">RANK: Top-k query processing</a></li>
+							<li><a href="http://snowball.cs.columbia.edu/">Snowball and QXTract, building blocks for efficient information extraction</a></li>
+							<li><a href="http://qprober.cs.columbia.edu/">QProber, a system for automatically classifying and searching "hidden-web" text databases</a></li>
+							<li><a href="http://sdarts.cs.columbia.edu/">SDARTS, a protocol and toolkit for metasearching</a></li>
+							<li><a href="http://geosearch.cs.columbia.edu/">GeoSearch, a geographically-aware search engine</a></li>
+						</ul>
               
               	<hr>
               
-              	<h2 id="sec3">Project 3</h2>
-      			
-              
-                <hr>
-              	<h2 id="sec4">Project 4</h2>
       			
               
 
