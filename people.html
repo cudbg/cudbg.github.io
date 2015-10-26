@@ -22,35 +22,35 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
+      <a class="navbar-brand" href="#">CUDBG</a>
     </div>
     <nav class="collapse navbar-collapse" role="navigation">
-      <ul class="nav navbar-nav">
-        <li> <a href="index.html">Home</a> </li>
-        <li> <a href="people.html">People</a> </li>
-        <li> <a href="projects.html">Projects</a> </li>
-        <li> <a href="publications.html">Publications</a> </li>
-        <li> <a href="courses.html">Courses</a> </li>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+        <li>
+          <a href="people.html">People</a>
+        </li>
+        <li>
+          <a href="projects.html">Projects</a>
+        </li>
+        <li>
+          <a href="publications.html">Publications</a>
+        </li>
+        <li>
+          <a href="courses.html">Courses</a>
+        </li>
       </ul>
     </nav>
   </div>
 </header>
 
 <!-- Begin Body -->
-<div class="container">
-	<div class="row">
-      <div class="col-md-3" id="leftCol">
-              	
-				<div class="well"> 
-          <ul class="nav nav-stacked" id="sidebar">
-            <li><a href="#sec1">Faculty</a></li>
-            <li><a href="#sec2">Ph.D. Students</a></li>
-            <li><a href="#sec3">Ph.D. Alumni</a></li>
-            <li><a href="#sec4">Other Members</a></li>
-          </ul>
-        </div>
+<div class="container main-container">
+  <div class="row">
 
-      </div>  
-        <div class="col-md-9">
+        <div class="col-md-10 col-md-offset-1">
 
           <!-- programatically populated -->
           <div id="photo-container"></div>
@@ -61,7 +61,7 @@
           <ul>
             <li><a href="http://www.mathcs.emory.edu/~eugene/">Eugene Agichtein</a> (current employment: Associate Professor, <a href="http://www.mathcs.emory.edu/">Department of
                 Mathematics and Computer Science, Emory University</a>) </li>
-            <li><a href="http://www.cs.columbia.edu/~pjbarrio">Pablo Barrio</a></li>			
+            <li><a href="http://www.cs.columbia.edu/~pjbarrio">Pablo Barrio</a></li>      
             <li><a href="http://www.cs.columbia.edu/~hila">Hila Becker</a> (current employment: Software Engineer, <a href="http://www.google.com">Google</a>)</li>
             <li><a href="http://www1.cs.columbia.edu/~nicolas/">Nicolas Bruno</a> (current employment: Software Engineer, <a href="http://www.google.com">Google</a>)</li>
             <li><a href="http://www.dmst.aueb.gr/damianos/">Damianos Chatziantoniou</a> (current employment: Associate Professor, <a href="http://www.dmst.aueb.gr/index.php/el/"> Department of Management Science and Technology, Athens University of Economics and Business</a>)</li>
@@ -71,7 +71,7 @@
             <li><a href="http://www.cs.columbia.edu/~alpa">Alpa Jain</a> (current employment: Software Engineer, <a href="http://www.google.com">Google</a>)</li>
             <li><a href="http://www-cs.engr.ccny.cuny.edu/~akira">Akira Kawaguchi</a> (current employment: Professor and Chair, <a href="http://www.ccny.cuny.edu/compsci/"> Department of Computer Science, City College of New York</a>)</li>
             <li><a href="http://www.cs.rutgers.edu/~amelie/">Amelie Marian</a> (current employment: Associate Professor, <a href="http://www.cs.rutgers.edu/">Department of
-                Computer Science, Rutgers University</a>) </li>		
+                Computer Science, Rutgers University</a>) </li>   
             <li><a href="http://www.cs.columbia.edu/~junr/">Jun Rao</a> (current employment: ????, <a href="http://www.research.ibm.com/labs/almaden/">IBM Almaden Research Center</a>)</li>
             <li><a href="https://www.cs.drexel.edu/~julia/">Julia Stoyanovich</a> (current employment: Associate Professor, <a href="http://drexel.edu/cci/departments/computer-science/">College of Computing & Informatics, Drexel University</a>)</li>
             <li><a href="https://sites.google.com/site/kazizaman/">Kazi Zaman</a> (current employment: Vice President of Engineering, <a href="http://www.ea.com/">Electronic Arts</a>)</li>
@@ -91,16 +91,26 @@
             <li>Lei Liu</li>
             <li>William Mee</li>
             <li>Anurag Singla</li>
-            <li><a href="http://www.cs.columbia.edu/~solomon/">Matthew Solomon</a></li>	
-            <li><a href="http://www.cs.columbia.edu/~yeyang/">Yang Ye</a></li>	
+            <li><a href="http://www.cs.columbia.edu/~solomon/">Matthew Solomon</a></li> 
+            <li><a href="http://www.cs.columbia.edu/~yeyang/">Yang Ye</a></li>  
             <li>Xiaoning Zhang</li>
           </ul>
             
-              	
-        </div> 
-  	</div>
+                
+         </div> <!-- end inside column-->  
+      </div> <!-- end inside row -->
+    </div> <!-- end main column -->
+  </div> <!-- end row -->
 </div>
-
+<footer>
+  <div class="container footer-container">
+    <div class="col-xs-10 col-xsoffset-1">
+      <div class="row">
+        © 2015 Columbia University Database Group
+      </div>
+    </div>
+  </div>
+</footer>
 
     <script id="entry-template" type="text/x-handlebars-template">
       {{#each rows}}
@@ -119,12 +129,12 @@
     </script>
 
 
-	<!-- script references -->
-		<script src="include/js/handlebars.js"></script>
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-		<script src="include/js/bootstrap.min.js"></script>
-		<script src="include/js/scripts.js"></script>
-	</body>
+  <!-- script references -->
+    <script src="include/js/handlebars.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <script src="include/js/bootstrap.min.js"></script>
+    <script src="include/js/scripts.js"></script>
+  </body>
 </html>
 
 
@@ -167,7 +177,7 @@
           {
             url: "http://www.cs.columbia.edu/~teffland",
             img: "tom",
-            name: "Thomas Effland" 
+            name: "Tom Effland" 
           },
           {
             url: "http://www.cs.columbia.edu/~jopa",
