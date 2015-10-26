@@ -3,15 +3,16 @@ header {
 }
 
 /* page style */
-body {
+html, body {
   background-color:#eee;
-  /*padding-top:50px;*/
 }
 .main-container {
   background-color:#fff;
+  /*min-height:1000px;*/
   /*width: 80%;*/
   box-shadow:2px 0px 10px #777;
 }
+
 footer {
     color:#fff;
     background-color:#666;
@@ -47,14 +48,14 @@ a {
 .navbar .navbar-nav>li>a{
     color:#fff;
     vertical-align: middle;
-    font-size:1.5em;
+    font-size:20px;
     line-height: 40px;
 }
 
 .navbar-default .navbar-brand:hover, 
 .navbar-default .navbar-brand:focus, 
 .navbar-default .navbar-nav>li>a:hover, 
-.navbar-default .navbar-nav>li>a:focus{
+.navbar-default .navbar-nav>li>a:focus {
     color:#aaa;
 }
 
