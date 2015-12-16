@@ -162,3 +162,9 @@ a {
     padding: 5px;
     display: none;
 }
+
+/* make that button on publications hidden */
+button#cs-widget-button {
+	display:none;
+}
+}
