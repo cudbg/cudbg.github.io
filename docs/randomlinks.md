@@ -62,9 +62,6 @@ Links from EWu's 2016 lab meetings
 * [Harvard's $5M animation of the cell](https://www.youtube.com/watch?v=B_zD3NxSsD8)
 * [Nate Silver unskewing the election polls.](http://www.huffingtonpost.com/entry/nate-silver-election-forecast_us_581e1c33e4b0d9ce6fbc6f7f)
 * http://viz.wtf/
-* Research prospectus
-    * [the pdf ](https://www.dropbox.com/s/8k7xqwxa6hbontw/newworld.pdf?dl=0)
-    * [the tex file ](https://www.dropbox.com/s/73admx27p44ozem/newworld.tex?dl=0)
 * http://www.martingoodson.com/ten-ways-your-data-project-is-going-to-fail/
 * http://arstechnica.com/information-technology/2016/10/google-ai-neural-network-cryptography/
 * http://marketmeditations.com/benjamin-franklin-learn-to-write/
