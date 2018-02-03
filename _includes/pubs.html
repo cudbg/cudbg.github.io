@@ -28,12 +28,13 @@
 <script>
 // publications
 $("#pubs-toggle").click(function() {
-  $(".selected-false").toggle();
   var btn = $("#pubs-toggle span");
   if (btn.text() == "Show All") {
+    $(".selected-false").show().css("display", "block");
     btn.text("Show Selected");
     $("#pubs-title").text("All Publications")
   } else {
+    $(".selected-false").hide();
     btn.text("Show All");
     $("#pubs-title").text("Selected Publications")
   }
