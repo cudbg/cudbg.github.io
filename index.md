@@ -21,7 +21,8 @@ Below is a list of outside speakers.
 
 ## News
 
-* September 2017: Orestis Polychroniou successfully defended his Ph.D. thesis.
+* February 2018: Ioannis Paparrizos successfully defended his Ph.D. thesis!
+* September 2017: Orestis Polychroniou successfully defended his Ph.D. thesis!
 * June 2016: Eva Sitaridi successfully defended her Ph.D. thesis.
 * September 2015: Pablo Barrio successfully defended his Ph.D. thesis.
 * July 2015: Eugene Wu joins our group.
