@@ -1,11 +1,27 @@
+#
+# Add an item for a new publication in YAML format
+# Basically, each publication should have at MINIMUM the following attributes:
+#
+#   authors, title, conf, selected
+#
+# "selected" is true or false, and means whether or not it 
+# is listed under "Selected Publications" when the page is loaded, 
+# or is only shown after the user clicks "Show All"
+#
+# The following are optional
+#
+#   comments
+#   code: link to code
+#   slides: link to slides
+#   url: link to paper PDF
+#   tags: you can ignore this attribute
+#
 - authors: Andrea Lottarini, Stephen A. Edwards, Kenneth A. Ross, Martha A. Kim
   code: .nan
   comments: .nan
   conf: DAC 2017
   selected: true
   slides: .nan
-  tags:
-  - nan
   title: Network Synthesis for Database Processing Units
   url: https://dl.acm.org/citation.cfm?doid=3061639.3062289
 - authors: Bingyi Cao, Kenneth A. Ross, Stephen A. Edwards, Martha A. Kim
