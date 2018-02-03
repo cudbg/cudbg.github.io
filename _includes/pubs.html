@@ -1,0 +1,43 @@
+<div class="pubs">
+  <ol connect="rows">
+    {% for p in {{site.data.pubs}} %}
+      {% assign selected = "false" %}
+      {% assign style = "display: none" %}
+      {% if {{p.selected}} != nil %}
+        {% assign selected = "true" %}
+        {% assign style = "display: block" %}
+      {% endif %}
+
+      <li class="paper selected-{{selected}}" data-selected="{{selected}}" style="{{style}}">
+        <a class="title" href="{{p.url}}">{{p.title}}</a>
+          <div class="authors">{{p.authors}}</div>
+          <span class="conf">{{{p.conf}}</span>
+          {% if p.code %}<a href="{{p.code}}">Code</a>{% endif %}
+          {% if p.slides %}<a href="{{p.slides}}">Slides</a>{% endif %}
+          {% if p.comments %}<span><b>{{p.comments}}</b></span>{% endif %}
+      </li>
+
+    {% endfor %}
+  </ol>
+</div>
+
+
+
+
+{% raw %}
+<script>
+// publications
+$("#pubs-toggle").click(function() {
+  $(".selected-false").toggle();
+  var btn = $("#pubs-toggle span");
+  if (btn.text() == "Show All") {
+    btn.text("Show Selected");
+    $("#pubs-title").text("All Publications")
+  } else {
+    btn.text("Show All");
+    $("#pubs-title").text("Selected Publications")
+  }
+})
+$(".selected-false").hide();
+</script>
+{% endraw %}
