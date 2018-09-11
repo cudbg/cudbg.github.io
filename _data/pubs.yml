@@ -68,692 +68,452 @@
   - clean
   selected: true
 - authors: Andrea Lottarini, Stephen A. Edwards, Kenneth A. Ross, Martha A. Kim
-  code: .nan
-  comments: .nan
   conf: DAC 2017
   selected: true
-  slides: .nan
   title: Network Synthesis for Database Processing Units
   url: https://dl.acm.org/citation.cfm?doid=3061639.3062289
 - authors: Bingyi Cao, Kenneth A. Ross, Stephen A. Edwards, Martha A. Kim
-  code: .nan
-  comments: .nan
   conf: DAMON 2017
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Deadlock-free joins in DB-mesh, an asynchronous systolic array accelerator
   url: https://dl.acm.org/citation.cfm?doid=3076113.3076118
 - authors: Eugene Wu, Fotis Psallidas, Zhengjie Miao, Haoci Zhang,Laura Rettig, Yifan
     Wu, Thibault Sellam
-  code: .nan
-  comments: .nan
   conf: CIDR 2017
   selected: true
-  slides: .nan
-  tags:
-  - nan
   title: Combining Design and Performance in a Data Visualization Management System
   url: https://www.dropbox.com/s/0rdjsv7m7wbhmlk/cidr17-camera.pdf?dl=0
 - authors: Yifan Wu, Joe Hellerstein, Eugene Wu
-  code: .nan
-  comments: .nan
   conf: Hilda 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: A DeVIL-ish Approach to Inconsistency in Interactive Visualizations
   url: http://sirrice.github.io/files/papers/devil-hilda16.pdf
 - authors: Daniel Alabi, Eugene Wu
-  code: .nan
-  comments: .nan
   conf: Hilda 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'PFunk-H: Approximate Query Processing using Perceptual Models'
   url: http://sirrice.github.io/files/papers/pfunk-hilda16.pdf
 - authors: Sanjay Krishnan, Daniel Haas, Michael J. Franklin, Eugene Wu
-  code: .nan
-  comments: .nan
   conf: Hilda 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'Towards Reliable Interactive Data Cleaning: A User Survey and Recommendations'
   url: http://sirrice.github.io/files/papers/cleaning-hilda16.pdf
 - authors: Sanjay Krishnan, Michael Franklin, Ken Goldberg, Jiannan Wang, Eugene Wu
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2016 Demo
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'ActiveClean: An Interactive Data Cleaning Framework For Modern Machine Learning'
   url: http://eugenewu.net/files/papers/activeclean-sigmod16demo.pdf
 - authors: E. A. Sitaridi, O. Polychroniou, K. A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: SIMD-accelerated regular expression matching
   url: http://doi.acm.org/10.1145/2933349.2933357
 - authors: J. Paparrizos and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIGMOD Record 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'k-Shape: Efficient and Accurate Clustering of Time Series'
   url: https://sigmodrecord.org/2016/04/23/efficient-and-accurate-clustering-of-time-series/
 - authors: J. Paparrizos, R. W. White, and E. Horvitz
-  code: .nan
-  comments: .nan
   conf: SIGKDD 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Detecting Devastating Diseases in Search Logs
   url: http://www.kdd.org/kdd2016/papers/files/adp0533-paparrizosA.pdf
 - authors: J. Paparrizos, R. W. White, and E. Horvitz
-  code: .nan
-  comments: .nan
   conf: Journal of Oncology Practice
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'Screening for Pancreatic Adenocarcinoma Using Signals From Web Search Logs:
     Feasibility Study and Results'
   url: http://jop.ascopubs.org/content/early/2016/06/02/JOP.2015.010504.abstract
 - authors: D. Haas, J. Wang, E. Wu, and M J. Franklin
-  code: .nan
-  comments: .nan
   conf: VLDB 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'CLAMShell: Speeding up Crowds for Low-latency Data Labeling'
   url: http://arxiv.org/pdf/1509.05969.pdf
 - authors: !!python/str "Evangelia A. Sitaridi, Ren\u017D M\u0178ller, Tim Kaldewey,\
     \ Guy M. Lohman, Kenneth A. Ross"
-  code: .nan
-  comments: .nan
   conf: ICPP 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Massively-Parallel Lossless Data Decompression
   url: http://ieeexplore.ieee.org/document/7573824/
 - authors: S. Sheth, C. Murphy, K. A. Ross, D. E. Shasha
-  code: .nan
-  comments: .nan
   conf: SIGCSE 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: A Course on Programming and Problem Solving
   url: http://doi.acm.org/10.1145/2839509.2844594
 - authors: E. Sitaridi and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: VLDB Journal 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: GPU-accelerated string matching for database applications
   url: http://dx.doi.org/10.1007/s00778-015-0409-y
 - authors: M. Sadoghi, K. A. Ross, M. Canim, B. Bhattacharjee
-  code: .nan
-  comments: .nan
   conf: VLDB Journal 2016
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Exploiting SSDs in operational multiversion databases
   url: http://dx.doi.org/10.1007/s00778-015-0410-5
 - authors: E. Wu and A. Nandi
-  code: .nan
-  comments: .nan
   conf: DSIA 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Towards Perception-aware Interactive Data Visualization Systems
   url: http://perceptvis.github.io/wu_nandi_dsia15.pdf
 - authors: S. Krishnan, J. Wang, M. J. Franklin, K. Goldberg, T. Kraska, T. Milo,
     and E. Wu
-  code: .nan
-  comments: .nan
   conf: Overview paper
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'SampleClean: Fast and Reliable Analytics on Dirty Data'
   url: http://sirrice.github.io/files/papers/sampleclean-overview.pdf
 - authors: L. Wu, A. Lottarini, T. K. Paine, M. A. Kim, K. A. Ross
-  code: .nan
-  comments: .nan
   conf: IEEE MICRO
   selected: true
-  slides: .nan
   tags:
   - nan
   title: The Q100 Database Processing Unit
   url: http://dx.doi.org/10.1109/MM.2015.51
 - authors: O. Polychroniou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Efficient Lightweight Compression Alongside Fast Scans
   url: http://dl.acm.org/citation.cfm?doid=2771937.2771943
 - authors: B. Cao, K. A. Ross, M. A. Kim, and S. A. Edwards
-  code: .nan
-  comments: .nan
   conf: MEMOCODE 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Implementing Latency-Insensitive Dataflow Blocks
   url: http://arcade.cs.columbia.edu/lid-memocode15.pdf
 - authors: D. Haas, S. Krishnan, J. Wang, M. J. Franklin, and E. Wu
-  code: .nan
-  comments: .nan
   conf: VLDB 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'Wisteria: Nurturing Scalable Data Cleaning Infrastructure (Demo)'
   url: http://sirrice.github.io/files/paper/wisteria.pdf
 - authors: A. Bhardwaj, A. Deshpande, A. Elmore, D. Karger, S. Madden, A. Parameswaran,
     H. Subramanyam, E. Wu, and R. Zhang
-  code: .nan
-  comments: .nan
   conf: VLDB 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Collaborative Data Analytics with Datahub (Demo)
   url: http://sirrice.github.io/files/papers/datahubdemo.pdf
 - authors: P. Barrio, L. Gravano, and C. Develder
-  code: .nan
-  comments: .nan
   conf: CIKM 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Ranking Deep Web Text Collections for Scalable Information Extraction
   url: '#'
 - authors: J. Paparrizos and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'k-Shape: Efficient and Accurate Clustering of Time Series'
   url: '#'
 - authors: !!python/str "P. Barrio, G. Sim\u203Aes, H. Galhardas, and L. Gravano"
-  code: .nan
-  comments: .nan
   conf: EDBT 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Learning to Rank Adaptively for Scalable Information Extraction
   url: '#'
 - authors: O. Polychroniou, A. Raghavan, K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2015
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Rethinking SIMD Vectorization for In-Memory Databases
   url: http://dl.acm.org/citation.cfm?id=2747645
 - authors: E. Wu, L. Battle, and S. Madden
-  code: .nan
-  comments: .nan
   conf: VLDB 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: The Case for Data Visualization Management Systems
   url: http://sirrice.github.io/files/papers/ermac-vldb14.pdf
 - authors: 'L. Wu, R. J. Barker, M. A. Kim, K. A. Ross:'
-  code: .nan
-  comments: .nan
   conf: IEEE MICRO
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Hardware Partitioning for Big Data Analytics
   url: http://dx.doi.org/10.1109/MM.2014.11
 - authors: M. Sadoghi, M. Canim, B. Bhattacharjee, F. Nagel, K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PVLDB 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Reducing Database Locking Contention Through Multi-version Concurrency
   url: http://www.vldb.org/pvldb/vol7/p1331-sadoghi.pdf
 - authors: L. Wu, O. Polychroniou, R. J. Barker, M. A. Kim, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: TOCS 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Energy Analysis of Hardware and Software Range Partitioning
   url: http://dl.acm.org/citation.cfm?id=2638550
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PLoS One 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Coherent Somatic Mutation in Autoimmune Disease
   url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0101093
 - authors: O. Polychroniou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Vectorized Bloom Filters for Advanced SIMD Processors
   url: http://dl.acm.org/citation.cfm?id=2619228.2619234
 - authors: L. Wu, A. Lottarini, T. K. Paine, M. A. Kim, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: ASPLOS 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'Q100: The Architecture and Design of a Database Processing Unit'
   url: http://dl.acm.org/citation.cfm?doid=2541940.2541961
 - authors: O. Polychroniou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: A Comprehensive Study of Main-memory Partitioning and its Application to
     Large-scale Comparison- and Radix-sort
   url: http://dl.acm.org/citation.cfm?doid=2588555.2610522
 - authors: O. Polychroniou, R. Sen, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'Track Join: Distributed Joins with Minimal Network Traffic'
   url: http://dl.acm.org/citation.cfm?doid=2588555.2610521
 - authors: F. Psallidas, L. Gravano, and many others
-  code: .nan
-  comments: .nan
   conf: NYC Media Lab's Annual Summit, 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Detecting Foodborne Disease Outbreaks Using Social Media (demonstration)
-  url: .nan
 - authors: N. Elhadad, L. Gravano, D. Hsu, S. Balter, V. Reddy, and H. Waechter
-  code: .nan
-  comments: .nan
   conf: KDD at Bloomberg Workshop, Data Frameworks Track (KDD 2014), 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: Information Extraction from Social Media for Public Health
-  url: .nan
 - authors: !!python/str "P. Barrio, G. Sim\u203Aes, H. Galhardas, and L. Gravano"
-  code: .nan
-  comments: .nan
   conf: JCDL 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: 'REEL: A Relation Extraction Learning Framework (poster)'
-  url: .nan
 - authors: C. Harrison, M. Jorder, H. Stern, F. Stavinsky, V. Reddy, H. Hanson, H.
     Waechter, L. Lowe, L. Gravano, and S. Balter
-  code: .nan
-  comments: .nan
   conf: Centers for Disease Control and Prevention Morbidity and Mortality Weekly
     Report 2014
   selected: true
-  slides: .nan
   tags:
   - nan
   title: !!python/str "Using Online Reviews by Restaurant Patrons to Identify Unreported\
     \ Cases of Foodborne Illness \xD1 New York City, 2012\xD02013"
-  url: .nan
 - authors: E. Wu, A. Marcus, and S. Madden
-  code: .nan
-  comments: .nan
   conf: DBCrowd 2013
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Data In Context: Aiding News Consumers while Taming Dataspaces'
   url: http://sirrice.github.io/files/papers/dataincontext.pdf
 - authors: A. Cheung, L. Ravindranath, E. Wu, S. Madden, and H. Balakrishnan
-  code: .nan
-  comments: .nan
   conf: APSYS 2013
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Mobile applications need Targeted Micro-updates
   url: http://sirrice.github.io/files/papers/apsys13.pdf
 - authors: E. Wu and S. Madden
-  code: .nan
-  comments: .nan
   conf: VLDB 2013 (Selected as one of the best papers of the conference!)
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Scorpion: Explaining Away Outliers in Aggregate Queries'
   url: http://sirrice.github.io/files/papers/scorpion-vldb13.pdf
 - authors: E. Wu, S. Madden, and M. Stonebraker
-  code: .nan
-  comments: .nan
   conf: ICDE 2013 (Selected as one of the best papers of the conference!)
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'SubZero: a Fine-Grained Lineage System for Scientific Databases'
   url: http://sirrice.github.io/files/papers/subzero-icde13.pdf
 - authors: M. Sadoghi, K. A. Ross, M. Canim, and B. Bhattacharjee
-  code: .nan
-  comments: .nan
   conf: PVLDB 2013
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Making Updates Disk-I/O Friendly Using SSDs
   url: http://www.vldb.org/pvldb/vol6/p997-sadoghi.pdf
 - authors: L. Wu, R. J. Barker, M. A. Kim, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: "ISCA 2013 (A version of this article appears in IEEE Micro 2014 as one of\
     \ the \"Top Picks\"\r\nfrom 2013.)"
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Navigating Big Data with High-Throughput, Energy-Efficient Data Partitioning
   url: http://arcade.cs.columbia.edu/harp-isca13.pdf
 - authors: E. Sitaridi and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2013
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Optimizing Select Conditions on GPUs
   url: http://dl.acm.org/citation.cfm?doid=2485278.2485282
 - authors: O. Polychroniou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2013
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: High Throughput Heavy Hitter Aggregation for Modern SIMD Processors
   url: http://dl.acm.org/citation.cfm?doid=2485278.2485284
 - authors: !!python/str "G. Sim\u203Aes, H. Galhardas, and L. Gravano"
-  code: .nan
-  comments: .nan
   conf: VLDB 2013
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'When Speed Has a Price: Fast Information Extraction Using Approximate Algorithms'
   url: '#'
 - authors: F. Psallidas, H. Becker, M. Naaman, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull. 2013
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Effective Event Identification in Social Media
-  url: .nan
 - authors: C. Harrison, M. Joarder, H. Stern, F. Stavinsky, V. Reddy, L. Gravano,
     and S. Balter
-  code: .nan
-  comments: .nan
   conf: CSTE Annual Conference, Poster 2013
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Using Restaurant Review Websites to Identify Unreported Complaints of Foodborne
     Illness
-  url: .nan
 - authors: E. Wu, S. Madden, and M. Stonebraker
-  code: .nan
-  comments: .nan
   conf: VLDB 2012
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'A Demonstration of DBWipes: Clean as You Query'
   url: http://sirrice.github.io/files/papers/dbwipes-vldb2012.pdf
 - authors: A. Marcus, E. Wu, D. Karger, S. Madden, and Robert Miller
-  code: .nan
-  comments: .nan
   conf: VLDB 2012
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Human-powered Sorts and Joins
   url: http://sirrice.github.io/files/papers/qurk-vldb2012.pdf
 - authors: M. Athanassoulis, B. Bhattacharjee, M. Canim, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: ADMS 2012
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Path Processing Using Solid State Storage
   url: '#'
 - authors: E. Sitaridi and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2012 (Best Paper Award winner.)
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Ameliorating Memory Contention of OLAP Operators on GPU Processors
   url: http://dl.acm.org/citation.cfm?doid=2236584.2236590
 - authors: W. Dakka, L. Gravano, and P. Ipeirotis
-  code: .nan
-  comments: .nan
   conf: TKDE 2012
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Answering General Time-Sensitive Queries
   url: http://www1.cs.columbia.edu/~gravano/Papers/2012/tkde12.pdf
 - authors: H. Becker, D. Iter, M. Naaman, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: WSDM 2012
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Identifying Content for Planned Events Across Social Media Sites
   url: '#'
 - authors: E. Wu and S. Madden
-  code: .nan
-  comments: .nan
   conf: ICDE 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Partitioning Techniques for Fine-Grained Indexing
   url: http://sirrice.github.io/files/papers/shinobi-icde11.pdf
 - authors: A. Marcus, E. Wu, D. Karger, S. Madden, and R. Miller
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Demonstration of Qurk: A Query Processor for Human Operators'
   url: http://sirrice.github.io/files/papers/qurk-sigmod2011.pdf
 - authors: Eugene Wu, Carlo Curino, and Sam Madden
-  code: .nan
-  comments: .nan
   conf: CIDR 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: No Bits Left Behind
   url: http://sirrice.github.io/files/papers/bits-cidr11.pdf
 - authors: A. Marcus, E. Wu, S. Madden, and R. Miller
-  code: .nan
-  comments: .nan
   conf: CIDR 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Crowdsourced Databases: Query Processing with People'
   url: http://sirrice.github.io/files/papers/qurk-cidr11.pdf
 - authors: C. Curino, E. Jones, R. Popa, N. Malviya, E. Wu, S. Madden, H. Balakrishnan,
     and N. Zeldovich
-  code: .nan
-  comments: .nan
   conf: CIDR 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Relational Cloud: A Database-as-a-Service for the Cloud'
   url: http://sirrice.github.io/files/papers/relcloud-cidr11.pdf
 - authors: A. El-Helw, K. A. Ross, B. Bhattacharjee, C. A. Lang, and G. A. Mihaila
-  code: .nan
-  comments: .nan
   conf: International Workshop on Data Warehousing and OLAP 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Column-Oriented Query Processing for Row Stores
   url: http://dl.acm.org/citation.cfm?doid=2064676.2064689
 - authors: D. Sidlauskas, K. A. Ross, C. S. Jensen, and S. Saltenis
-  code: .nan
-  comments: .nan
   conf: International Symposium on Advances in Spatial and Temporal Databases 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Thread-Level Parallel Indexing of Update Intensive Moving-Object Workloads
   url: http://www.springerlink.com/content/ju14p5x32553x1k4/
 - authors: Y. Ye, K. A. Ross, and N. Vesdapunt
-  code: .nan
-  comments: .nan
   conf: DAMON 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Scalable Aggregation on Multicore Processors
   url: http://dl.acm.org/citation.cfm?doid=1995441.1995442
 - authors: B. Bhattacharjee, K. A. Ross, C. A. Lang, G. A. Mihaila, and M. Banikazemi
-  code: .nan
-  comments: .nan
   conf: DAMON 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Enhancing Recovery using an SSD Buffer Pool Extension
   url: http://dl.acm.org/citation.cfm?doid=1995441.1995443
 - authors: J. Stoyanovich, M. Lodha, W. Mee, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2011 Demo
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'SkylineSearch: Semantic Ranking and Result Visualization for Pubmed'
   url: http://dl.acm.org/citation.cfm?doid=1989323.1989467
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: BMC Medicine 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Evidence for somatic gene conversion and deletion in bipolar disorder, Crohn's
@@ -761,1018 +521,609 @@
     and type-2 diabetes
   url: http://www.biomedcentral.com/1741-7015/9/12
 - authors: M. Naaman, H. Becker, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: JASIST 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Hip and Trendy: Characterizing Emerging Trends on Twitter'
   url: http://www1.cs.columbia.edu/~gravano/Papers/2011/jasist11.pdf
 - authors: H. Becker, M. Naaman, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICWSM 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Beyond Trending Topics: Real-World Event Identification on Twitter'
   url: '#'
 - authors: H. Becker, M. Naaman, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICWSM 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Selecting Quality Twitter Content for Events
   url: '#'
 - authors: M. Solomon, L. Gravano, and C. Yu
-  code: .nan
-  comments: .nan
   conf: DBRank 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Quality Impact of Value Matching and Scoring in Top-k Entity Attribute Extraction
-  url: .nan
 - authors: H. Becker, F. Chen, D. Iter, M. Naaman, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICWSM 2011
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Automatic Identification and Presentation of Twitter Content for Planned
     Events (demonstration)
-  url: .nan
 - authors: C. Curino, E. Jones, Y. Zhang, E. Wu, and S. Madden
-  code: .nan
-  comments: .nan
   conf: MIT CSAIL Technical Report
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Relational Cloud: The Case for a Database Service'
   url: http://sirrice.github.io/files/papers/caseforrelationalcloud.pdf
 - authors: P. Cudre-Mauroux, E. Wu, and S. Madden
-  code: .nan
-  comments: .nan
   conf: ICDE 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'TrajStore: An Adaptive Storage System for Very Large Trajectory Data Sets'
   url: http://sirrice.github.io/files/papers/trajstore-icde10.pdf
 - authors: B. Bhattacharjee, M. Canim, C. Lang, G. Mihaila, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull. 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Storage Class Memory Aware Data Management
   url: http://sites.computer.org/debull/A10dec/bish.pdf
 - authors: M. Canim, G. Mihaila, B. Bhattacharjee, K. A. Ross, and C. Lang
-  code: .nan
-  comments: .nan
   conf: VLDB 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: SSD Bufferpool Extensions for Database Systems
   url: http://www.comp.nus.edu.sg/~vldb2010/proceedings/files/papers/I06.pdf
 - authors: M. Canim, G. Mihaila, B. Bhattacharjee, C. Lang, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: ADMS 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Buffered Bloom Filters on Solid State Storage
   url: http://www.vldb2010.org/proceedings/files/vldb_2010_workshop/ADMS_2010/adms10-canim.pdf
 - authors: J. Cieslewicz, K. A. Ross, K. Satsumi, and Y. Ye
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Automatic Contention Detection and Amelioration for Data Intensive Operations
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/sigmod053-cieslewicz.pdf
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Optimizing Read Convoys in Main-Memory Query Processing
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/convoy.pdf
 - authors: J. Stoyanovich, W. Mee, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: ICDE 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Semantic Ranking and Result Visualization for Life Sciences Publications
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/ICDE10_conf_full_040.pdf
 - authors: H. Becker, M. Naaman, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: WSDM 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Learning Similarity Metrics for Event Identification in Social Media
   url: '#'
 - authors: M. Solomon, C. Yu, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: WebDB 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Popularity-Guided Top-k Extraction of Entity Attributes
-  url: .nan
 - authors: H. Becker, B. Xiao, M. Naaman, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SSM 2010
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Exploiting Social Links for Event Identification in Social Media (poster)
-  url: .nan
 - authors: E. Wu, P. Cudre-Mauroux, and S. Madden
-  code: .nan
-  comments: .nan
   conf: VLDB 2009
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Demonstration of the TrajStore System
   url: http://sirrice.github.io/files/papers/trajstore-vldb09demo.pdf
 - authors: P. Cudre-Mauroux, E. Wu, and S. Madden
-  code: .nan
-  comments: .nan
   conf: CIDR 2009
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'The Case for RodentStore: An Adaptive, Declarative Storage System'
   url: http://www-db.cs.wisc.edu/cidr/cidr2009/Paper_97.pdf
 - authors: B. Bhattacharjee, L. Lim, T. Malkemus, G. Mihaila, K. A. Ross, S. Lau,
     C. McCarthur, Z. Toth, and R. Sherkat
-  code: .nan
-  comments: .nan
   conf: PVLDB 2009
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Efficient Index Compression in DB2 LUW
   url: http://www1.cs.columbia.edu/~kar/pubsk/indexcompression2009.pdf
 - authors: M. Canim, B. Bhattacharjee, G. Mihaila, C. Lang, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PVLDB 2009
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: An Object Placement Advisor for DB2 Using Solid State Storage
   url: http://www.vldb.org/pvldb/2/vldb09-853.pdf
 - authors: J. Cieslewicz, W. Mee, and K.A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2009
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Cache Conscious Buffering for Database Operators with State
   url: http://event.cwi.nl/damon2009/DaMoN09-CacheConsciousBuffering.pdf
 - authors: K. A. Ross and J. Cieslewicz
-  code: .nan
-  comments: .nan
   conf: ICDT 2009
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Optimal Splitters for Database Partitioning with Size Bounds
   url: http://www1.cs.columbia.edu/~kar/pubsk/splitters.pdf
 - authors: A. L. Varbanescu, H. J. Sips, K. A. Ross, Q. Liu, A. Natsev, J. R. Smith,
     and L. K. Liu
-  code: .nan
-  comments: .nan
   conf: 'Concurrency and Computation: Practice and Experience 2009'
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Evaluating Application Mapping Scenarios on the Cell/B.E
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/cpe2009.pdf
 - authors: A. Jain, P. Ipeirotis, A. Doan, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICDE 2009
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Join Optimization of Information Extraction Output: Quality Matters!'
   url: '#'
 - authors: H. Becker, M. Naaman, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: WebDB 2009
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Event Identification in Social Media
-  url: .nan
 - authors: M. Cafarella, A. Halevy, D. Wang, and E. Wu, Y. Zhang
-  code: .nan
-  comments: .nan
   conf: VLDB 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'WebTables: Exploring the Power of Tables on the Web'
   url: http://sirrice.github.io/files/papers/webtables-vldb08.pdf
 - authors: M. Cafarella, N. Khoussainova, D. Wang, E. Wu, Y. Zhang, and A. Halevy
-  code: .nan
-  comments: .nan
   conf: WebDB 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Uncovering the Relational Web
   url: http://sirrice.github.io/files/papers/relweb-webdb08.pdf
 - authors: L. Hu, K. A. Ross, Y. C. Chang, C. A. Lang, and D. Zhang
-  code: .nan
-  comments: .nan
   conf: VLDB Demo 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'QueryScope: visualizing queries for repeatable database tuning'
   url: http://www.vldb.org/pvldb/1/1454209.pdf
 - authors: K.A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Modeling the Performance of Algorithms on Flash Memory Devices
   url: http://www.cse.ust.hk/damon2008/proceedings/p11-ross.pdf
 - authors: J. Cieslewicz and K.A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Data Partitioning on Chip Multiprocessors
   url: http://www.cse.ust.hk/damon2008/proceedings/p25-cieslewicz.pdf
 - authors: J. Cieslewicz and K.A. Ross
-  code: .nan
-  comments: .nan
   conf: Proceedings of the IEEE 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Database Optimizations for Modern Hardware
   url: http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4483499
 - authors: K. A. Ross and J. Stoyanovich
-  code: .nan
-  comments: .nan
   conf: EDBT 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Schema Polynomials and Applications
   url: http://www1.cs.columbia.edu/~kar/pubsk/schemapoly.pdf
 - authors: P. Ipeirotis and L. Gravano
-  code: .nan
-  comments: .nan
   conf: TOIS 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Classification-Aware Hidden-Web Text Database Selection
   url: http://www1.cs.columbia.edu/~gravano/Papers/2008/tois08.pdf
 - authors: W. Dakka, L. Gravano, and P. Ipeirotis
-  code: .nan
-  comments: .nan
   conf: CIKM 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Answering General Time-Sensitive Queries
   url: '#'
 - authors: A. Jain, A. Doan, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICDE 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Optimizing SQL Queries over Text Databases
   url: '#'
 - authors: A. Jain, P. Ipeirotis, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIGMOD Record, Special Issue on "Managing Information Extraction," 2008
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Building Query Optimizers for Information Extraction: The SQoUT Project'
-  url: .nan
 - authors: D. Gyllstrom, E. Wu, H. J. Chae, Y. Diao, P. Stahlberg, and G. Anderson
-  code: .nan
-  comments: .nan
   conf: CIDR 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'SASE: Complex Event Processing over Streams (Demo)'
   url: '#'
 - authors: J. Cieslewicz and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: VLDB 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Adaptive Aggregation on Chip Multiprocessors
   url: http://www.vldb.org/conf/2007/papers/research/p339-cieslewicz.pdf
 - authors: A. L. Varbanescu, H. J. Sips, K. A. Ross, Q. Liu, L. K. Liu, A. Natsev,
     and J. R. Smith
-  code: .nan
-  comments: .nan
   conf: ICPP 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: An Effective Strategy for Porting C++ Applications on Cell
   url: http://www.pds.ewi.tudelft.nl/pubs/papers/icpp2007.pdf
 - authors: L. K. Liu, Q. Liu, A. Natsev, K. A. Ross, J. R. Smith, and A. L. Varbanescu
-  code: .nan
-  comments: .nan
   conf: ICME 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Digital Media Indexing on the Cell Processor
   url: http://www.power.org/resources/devcorner/cellcorner/ICMEConf2007_MarCell.pdf
 - authors: A. L. Varbanescu, H. J. Sips, K. A. Ross, Q. Liu, A. Natsev, J. R. Smith,
     and L. K. Liu
-  code: .nan
-  comments: .nan
   conf: Workshop on Compilers for Parallel Computers 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Running Applications on Cell BE - a Performance Study
   url: '#'
 - authors: J. Cieslewicz, K.A. Ross, and I. Giannakakis
-  code: .nan
-  comments: .nan
   conf: DAMON 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Parallel Buffers for Chip Multiprocessors
   url: http://www.cs.cmu.edu/~damon2007/pdf/cieslewicz07parallelbuffers.pdf
 - authors: K.A. Ross, A. Janevski, and J. Stoyanovich
-  code: .nan
-  comments: .nan
   conf: Internet Archeology 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: A Faceted Query Engine Applied to Archeology
   url: http://intarch.ac.uk/journal/issue21/stoyanovich_index.html
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: DBRank 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: On the Adequacy of Partial Orders for Preference Composition
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/adequacy.pdf
 - authors: K. A. Ross, P. J. Stuckey, and A. Marian
-  code: .nan
-  comments: .nan
   conf: DBRank 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Practical Preference Relations for Large Data Sets
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/practicalpref.pdf
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: ICDE 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Efficient Hash Probes on Modern Processors
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/icde2007.pdf
 - authors: D. Chatziantoniou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Information Systems 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Partitioned Optimization of Complex Queries
   url: http://dx.doi.org/10.1016/j.is.2005.09.003
 - authors: K. A. Ross, D. Vespe, D. Hessing, and P. Jain
-  code: .nan
-  comments: .nan
   conf: SIGMOD Record 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Finding Shapes in a Set of Points
   url: http://www.sigmod.org/sigmod/record/issues/0703/04.article-ross.pdf
 - authors: P. Ipeirotis, E. Agichtein, P. Jain, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: TODS 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Towards a Query Optimizer for Text-Centric Tasks
   url: http://www1.cs.columbia.edu/~gravano/Papers/2007/tods07b.pdf
 - authors: P. Ipeirotis, A. Ntoulas, J. Cho, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: TODS 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Modeling and Managing Changes in Text Databases
   url: http://www1.cs.columbia.edu/~gravano/Papers/2007/tods07a.pdf
 - authors: W. Dakka and L. Gravano
-  code: .nan
-  comments: .nan
   conf: JCDL 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Efficient Summarization-Aware Search for Online News Articles
   url: '#'
 - authors: M. Sayyadian, H. LeKhac, A. Doan, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICDE 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Efficient Keyword Search Across Heterogeneous Relational Databases
   url: '#'
 - authors: A. Jain, A. Doan, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICDE 2007
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: SQL Queries Over Unstructured Text Databases
   url: '#'
 - authors: E. Wu, Y. Diao, and S. Rizvi
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2006
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: High-performance complex event processing over streams
   url: http://sirrice.github.io/files/papers/sase-sigmod06.pdf
 - authors: D. Gyllstrom, E. Wu, H. J. Chae, Y. Diao, P. Stahlberg, and G. Anderson
-  code: .nan
-  comments: .nan
   conf: CoRR 2006
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'SASE: Complex Event Processing over Streams'
   url: '#'
 - authors: M. N. Garofalakis, K. P. Brown, M. J. Franklin, J. M. Hellerstein, D. Z.
     Wang, E. Michelakis, L. Tancau., E. Wu, S. R. Jeffery, and R. Aipperspach
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull 2006
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Probabilistic Data Management for Pervasive Computing: The Data Furnace
     Project'
   url: '#'
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Evolutionary Ecology Research 2006
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Alpha Radiation is a Major Germ-Line Mutagen over Evolutionary Timescales
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/ffar1999.pdf
 - authors: J. Cieslewicz, J. Berry, B. Hendrickson, and K.A. Ross
-  code: .nan
-  comments: .nan
   conf: DAMON 2006 (Best Paper Award winner.)
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Realizing Parallelism in Database Operations: Insights from a Massively
     Multithreaded Architecture'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/damon06.pdf
 - authors: P. Ipeirotis, E. Agichtein, P. Jain, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2006
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: To Search or to Crawl? Towards a Query Optimizer for Text-Centric Tasks
   url: '#'
 - authors: M. J. Franklin, S. R. Jeffery, S. Krishnamurthy, F. Reiss, S. Rizvi, E.
     Wu, O. Cooper, A. Edakkunni, and W. Hong
-  code: .nan
-  comments: .nan
   conf: CIDR 2005
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Design Considerations for High Fan-In Systems: The HiFi Approach'
   url: http://sirrice.github.io/files/papers/
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Communications of the ACM 2005
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Academic Dishonesty and the Internet
   url: http://portal.acm.org/citation.cfm?id=1089107.1089131
 - authors: K. A. Ross, A. Janevski, and J. Stoyanovich
-  code: .nan
-  comments: .nan
   conf: VLDB 2005 Demo
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: A Faceted Query Engine Applied to Archaeology
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/vldb2005demo.pdf
 - authors: J. Zhou, J. Cieslewicz, K. A. Ross, and M. Shah
-  code: .nan
-  comments: .nan
   conf: VLDB 2005
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Improving Database Performance on Simultaneous Multithreading Processors
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/vldb2005.pdf
 - authors: K. A. Ross, J. Cieslewicz, J. Rao, and J. Zhou
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull. 2005
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Architecture Sensitive Database Design: Examples from the Columbia Group'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/debull2005.pdf
 - authors: P. Ipeirotis, A. Ntoulas, J. Cho, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICDE 2005
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Modeling and Managing Content Changes in Text Databases
   url: '#'
 - authors: O. Cooper, A. Edakkunni, M. J. Franklin, W. Hong, S. R. Jeffery, S. Krishnamurthy,
     F. Reiss, S. Rizvi, and E. Wu
-  code: .nan
-  comments: .nan
   conf: VLDB 2004 Demo
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'HiFi: A Unified Architecture for High Fan-in Systems'
   url: '#'
 - authors: K. A. Ross and J. Stoyanovich
-  code: .nan
-  comments: .nan
   conf: VLDB 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Symmetric Relations and Cardinality Bounded Multisets in Database Systems
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/symm.pdf
 - authors: K. A. Ross and A. Janevski
-  code: .nan
-  comments: .nan
   conf: SWDB Workshop 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Querying Faceted Databases
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/swdbfinal.pdf
 - authors: J. Zhou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Buffering Database Operations for Enhanced Instruction Cache Performance
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/icache.pdf
 - authors: A. Aho, A. D. Keromytis, V. Misra, J. Nieh, K. A. Ross, and Y. Yemini
-  code: .nan
-  comments: .nan
   conf: 'First International Workshop on Data Processing and Storage Networking: Towards
     Grid Computing 2004'
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'FlowPuter: A Cluster Architecture Unifying Switch, Server and Storage Processing'
   url: http://www1.cs.columbia.edu/~kar/pubsk/flowputer.pdf
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: TODS 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Selection Conditions in Main Memory
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/selcondsTODS.pdf
 - authors: S. Chaudhuri, L. Gravano, and A. Marian
-  code: .nan
-  comments: .nan
   conf: TKDE 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Optimizing Top-k Selection Queries over Multimedia Repositories
   url: http://www1.cs.columbia.edu/~gravano/Papers/2004/tkde04.pdf
 - authors: A. Marian, N. Bruno, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: TODS 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Evaluating Top-k Queries over Web-Accessible Databases
   url: http://www1.cs.columbia.edu/~gravano/Papers/2004/tods04.pdf
 - authors: E. Agichtein, S. Lawrence, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: TOIT 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Learning to Find Answers to Questions on the Web
   url: http://www1.cs.columbia.edu/~gravano/Papers/2004/toit04.pdf
 - authors: P. Ipeirotis and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'When one Sample is not Enough: Improving Text Database Selection Using Shrinkage'
   url: '#'
 - authors: S. Chaudhuri, V. Ganti, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICDE 2004
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Selectivity Estimation for String Predicates: Overcoming the Underestimation
     Problem'
   url: '#'
 - authors: J. Zhou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: VLDB 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Buffering Accesses to Memory-Resident Index Structures
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/buffer.pdf
 - authors: J. Zhou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: IDEAS 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: A Multi-Resolution Block Storage Model for Database Design
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/mbsmfinal.ps
 - authors: L. Gravano, P. Ipeirotis, and M. Sahami
-  code: .nan
-  comments: .nan
   conf: TOIS 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'QProber: A System for Automatic Classification of Hidden-Web Databases'
   url: http://www1.cs.columbia.edu/~gravano/Papers/2003/tois03.pdf
 - authors: L. Gravano, V. Hatzivassiloglou, and R. Lichtenstein
-  code: .nan
-  comments: .nan
   conf: CIKM 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Categorizing Web Queries According to Geographical Locality
   url: '#'
 - authors: V. Hristidis, L. Gravano, and Y. Papakonstantinou
-  code: .nan
-  comments: .nan
   conf: VLDB 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Efficient IR-Style Keyword Search over Relational Databases
   url: '#'
 - authors: L. Gravano, P. Ipeirotis, N. Koudas, and D. Srivastava
-  code: .nan
-  comments: .nan
   conf: WWW 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Text Joins in an RDBMS for Web Data Integration
   url: '#'
 - authors: E. Agichtein and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICDE 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Querying Text Databases for Efficient Information Extraction
   url: '#'
 - authors: N. Bruno, L. Gravano, N. Koudas, and D. Srivastava
-  code: .nan
-  comments: .nan
   conf: ICDE 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Navigation- vs. Index-Based XML Multi-Query Processing
   url: '#'
 - authors: L. Gravano, P. Ipeirotis, N. Koudas, and D. Srivastava
-  code: .nan
-  comments: .nan
   conf: ICDE 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Text Joins for Data Cleansing and Integration in an RDBMS
   url: '#'
 - authors: E. Agichtein, P. Ipeirotis, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: WebDB 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Modeling Query-Based Access to Text Databases
-  url: .nan
 - authors: E. Agichtein and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2003
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'QXtract: A Building Block for Efficient Information Extraction from Text
     Databases (demonstration)'
-  url: .nan
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PODS 2002
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Selection Conditions in Main Memory
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/selections.pdf
 - authors: J. Zhou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2002
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Implementing Database Operations Using SIMD Instructions
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/simd.pdf
 - authors: N. Bruno, S. Chaudhuri, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: TODS 2002
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Top-k Selection Queries over Relational Databases: Mapping Strategies and
     Performance Evaluation'
   url: http://www1.cs.columbia.edu/~gravano/Papers/2002/tods02.pdf
 - authors: P. Ipeirotis and L. Gravano
-  code: .nan
-  comments: .nan
   conf: VLDB 2002
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Distributed Search over the Hidden-Web: Hierarchical Database Sampling and
     Selection'
   url: '#'
 - authors: N. Bruno, L. Gravano, and A. Marian
-  code: .nan
-  comments: .nan
   conf: ICDE 2002
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Evaluating Top-k Queries over Web-Accessible Databases
   url: '#'
 - authors: P. Ipeirotis, T. Barry, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: JCDL 2002
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Extending SDARTS: Extracting Metadata from Web Databases and Interfacing
     with the Open Archives Initiative'
   url: '#'
 - authors: L. Gravano, P. Ipeirotis, and M. Sahami
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull. 2002
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Query- vs. Crawling-based Classification of Searchable Web Databases
-  url: .nan
 - authors: K. A. Ross, I. Sitzmann, and P. J. Stuckey
-  code: .nan
-  comments: .nan
   conf: SSDBM 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Cost-Based Unbalanced R-Trees
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/curtree.pdf
 - authors: F. Fabret, H. A. Jacobsen, F. Llirbat, J. Pereira, K. A. Ross, and D. Shasha
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Filtering Algorithms and Implementation for Very Fast Publish/Subscribe
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/pubsub.ps
 - authors: L. Gravano, P. Ipeirotis, H. V. Jagadish, N. Koudas, S. Muthukrishnan,
     and D. Srivastava
-  code: .nan
-  comments: .nan
   conf: VLDB 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Approximate String Joins in a Database (Almost) for Free
   url: '#'
 - authors: P. Ipeirotis, L. Gravano, and M. Sahami
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Probe, Count, and Classify: Categorizing Hidden Web Databases'
   url: '#'
 - authors: N. Bruno, S. Chaudhuri, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'STHoles: A Multidimensional Workload-Aware Histogram'
   url: '#'
 - authors: N. Green, P. Ipeirotis, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: JCDL 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'SDLIP + STARTS = SDARTS: A Protocol and Toolkit for Metasearching'
@@ -1780,937 +1131,558 @@
 - authors: K. McKeown, S.-F. Chang, J. Cimino, S. Feiner, C. Friedman, L. Gravano,
     V. Hatzivassiloglou, S. Johnson, D. Jordan, J. Klavans, A. Kushniruk, V. Patel,
     and S. Teufel
-  code: .nan
-  comments: .nan
   conf: JCDL 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: PERSIVAL, a System for Personalized Search and Summarization over Multimedia
     Healthcare Information
   url: '#'
 - authors: E. Agichtein, S. Lawrence, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: WWW 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Learning Search Engine Specific Query Transformations for Question Answering
   url: '#'
 - authors: E. Agichtein, L. Gravano, J. Pavel, V. Sokolova, and A. Voskoboynik
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Snowball: A Prototype System for Extracting Relations from Large Text Collections
     (demonstration)'
-  url: .nan
 - authors: P. Ipeirotis, L. Gravano, and M. Sahami
-  code: .nan
-  comments: .nan
   conf: JCDL 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'PERSIVAL Demo: Categorizing Hidden-Web Resources (demonstration)'
-  url: .nan
 - authors: L. Gravano, P. Ipeirotis, H. V. Jagadish, N. Koudas, S. Muthukrishnan,
     L. Pietarinen, and D. Srivastava
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull. 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Using q-grams in a DBMS for Approximate String Processing
-  url: .nan
 - authors: J. L. Ambite, Y. Arens, E. Hovy, A. Philpot, L. Gravano, V. Hatzivassiloglou,
     and J. Klavans
-  code: .nan
-  comments: .nan
   conf: IEEE Computer 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Simplifying Data Access: The Energy Data Collection Project'
-  url: .nan
 - authors: S. Berchtold, H. V. Jagadish, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Journal of Electronic Imaging 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Independence Diagrams: A Technique for Data Visualization'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/jei00.ps
 - authors: J. Pereira, F. Fabret, F. Llirbat, R. Preotiuc-Pietro, K. A. Ross, and
     D. Shasha
-  code: .nan
-  comments: .nan
   conf: VLDB 2000 Demo
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Publish/Subscribe on the Web at Extreme Speed
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/vldb_demo00.ps
 - authors: K. A. Ross and K. A. Zaman
-  code: .nan
-  comments: .nan
   conf: SSDBM 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Optimizing Selections over Datacubes
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/selcube.ps
 - authors: K. A. Ross and K. A. Zaman
-  code: .nan
-  comments: .nan
   conf: SSDBM 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Serving Datacube Tuples from Main Memory
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/memcube.ps
 - authors: J. Rao and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Making B+-Trees Cache Conscious in Main Memory
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/csbplustrees.ps
 - authors: J. Ding, L. Gravano, and N. Shivakumar
-  code: .nan
-  comments: .nan
   conf: VLDB 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Computing Geographical Scopes of Web Resources
   url: '#'
 - authors: V. Hatzivassiloglou, L. Gravano, and A. Maganti
-  code: .nan
-  comments: .nan
   conf: SIGIR 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: An Investigation of Linguistic Features and Clustering Algorithms for Topical
     Document Clustering
   url: '#'
 - authors: E. Agichtein and L. Gravano
-  code: .nan
-  comments: .nan
   conf: JCDL 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Snowball: Extracting Relations from Large Plain-Text Collections'
   url: '#'
 - authors: P. Ipeirotis, L. Gravano, and M. Sahami
-  code: .nan
-  comments: .nan
   conf: WebDB 2000, Also in LNCS Series no. 1997, Springer, 2001
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Automatic Classification of Text Databases through Query Probing
-  url: .nan
 - authors: E. Agichtein, E. Eskin, and L. Gravano
-  code: .nan
-  comments: .nan
   conf: DMKD 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Combining Strategies for Extracting Relations from Text Collections
-  url: .nan
 - authors: L. Gravano
-  code: .nan
-  comments: .nan
   conf: Position paper for the First NSF-DELOS Workshop on Information Seeking, Searching,
     and Querying in Digital Libraries, 2000
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Characterizing Web Resources for Improved Search
-  url: .nan
 - authors: J. Rao and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: VLDB 1999
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Cache Conscious Indexing for Decision-Support in Main Memory
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/csstrees.ps
 - authors: Z. Li and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: VLDB Journal 1999
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Fast Joins Using Join Indices
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/tslamjive.ps
 - authors: L. Gravano, H. Garcia-Molina, A. Tomasic
-  code: .nan
-  comments: .nan
   conf: TODS 1999
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'GlOSS: Text-Source Discovery over the Internet'
   url: http://www1.cs.columbia.edu/~gravano/Papers/1998/TODS/tods.pdf
 - authors: S. Chaudhuri and L. Gravano
-  code: .nan
-  comments: .nan
   conf: VLDB 1999
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Evaluating Top-k Selection Queries
   url: '#'
 - authors: O. Buyukkokten, J. Cho, H. Garcia-Molina, L. Gravano, and N. Shivakumar
-  code: .nan
-  comments: .nan
   conf: WebDB 1999
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Exploiting Geographical Location Information of Web Pages
-  url: .nan
 - authors: S. F. Chang, L. Gravano, G. E. Kaiser, K. A. Ross, and S. Stolfo
-  code: .nan
-  comments: .nan
   conf: SIGMOD Record 1998
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Database Research at Columbia University
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/sigmodrecord.ps
 - authors: J. Rao and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 1998
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Reusing Invariants: A New Strategy for Correlated Queries'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/invariant.ps
 - authors: K. A. Ross, D. Srivastava, and D. Chatziantoniou
-  code: .nan
-  comments: .nan
   conf: EDBT 1998
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Complex Aggregation at Multiple Granularities
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/mfcubeedbt.ps
 - authors: K. A. Ross, D. Srivastava, P. J. Stuckey and S. Sudarshan
-  code: .nan
-  comments: .nan
   conf: Theoretical Computer Science 1998
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Foundations of Aggregation Constraints
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/aggconstraints.ps
 - authors: L. Gravano and Y. Papakonstantinou
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull 1998
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Mediating and Metasearching on the Internet
-  url: .nan
 - authors: M. Roscheisen, M. Baldonado, C.-C. K. Chang, L. Gravano, S. Ketchpel, and
     A. Paepcke
-  code: .nan
-  comments: .nan
   conf: 'Digital Libraries in Computer Science: The MeDoc Approach, LNCS Series, 1998'
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'The Stanford InfoBus and Its Service Layers: Augmenting the Internet with
     Higher-Level Information Management Protocols'
-  url: .nan
 - authors: D. Barbara, W. DuMouchel, C. Faloutsos, P. J. Haas, J. M. Hellerstein,
     Y. Ioannidis, H. V. Jagadish, T. Johnson, R. Ng, V. Poosala, K. A. Ross, and K.
     C. Sevcik
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull. 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: The New Jersey Data Reduction Report
   url: ftp://ftp.research.microsoft.com/pub/debull/dec97-letfinal.ps
 - authors: I. S. Mumick and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Fifth International Conference on Deductive and Object-Oriented Databases
     1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Attribute-Oriented View Definitions in Relational and Deductive Databases
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/ardood.ps
 - authors: K. A. Ross and D. Srivastava
-  code: .nan
-  comments: .nan
   conf: VLDB 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Fast Computation of Sparse Datacubes
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/fastcube.ps
 - authors: D. Chatziantoniou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: VLDB 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Groupwise Processing of Relational Queries
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/groupwise.ps
 - authors: A. Kawaguchi, D. Lieuwen, I. S. Mumick, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: International Workshop on Database Programming Languages 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Implementing Incremental View Maintenance in Nested Data Models
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/nested.pdf
 - authors: H. Lei and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: International Workshop on Next Generation Information Technologies and Systems
     1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Faster Joins, Self-Joins and Multi-Way Joins Using Join Indices
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/stripedke.ps
 - authors: L. Colby, A. Kawaguchi, D. Lieuwen, I. Mumick, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Supporting Multiple View Maintenance Policies
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/viewpolicies.ps
 - authors: A. Kawaguchi, D. Lieuwen, I. Mumick, D. Quass, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: ICDT 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Concurrency Control Theory for Deferred Materialized Views
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/cctheory.ps
 - authors: K. A. Ross and Y. Sagiv
-  code: .nan
-  comments: .nan
   conf: Journal of Computer and System Sciences 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Monotonic Aggregation in Deductive Databases
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/aggmon.ps
 - authors: M. Baldonado, C.-C. K. Chang, L. Gravano, and A. Paepcke
-  code: .nan
-  comments: .nan
   conf: International Journal on Digital Libraries 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: The Stanford Digital Library Metadata Architecture
   url: http://www1.cs.columbia.edu/~gravano/Papers/1997/jodl97.pdf
 - authors: A. Tomasic, L. Gravano, C. Lue, P. Schwarz, and L. Haas
-  code: .nan
-  comments: .nan
   conf: TOIS 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Data Structures for Efficient Broker Implementation
   url: http://www1.cs.columbia.edu/~gravano/Papers/1997/tois97.pdf
 - authors: L. Gravano and H. Garcia-Molina
-  code: .nan
-  comments: .nan
   conf: VLDB 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Merging Ranks from Heterogeneous Internet Sources
   url: '#'
 - authors: M. Baldonado, C.-C. K. Chang, L. Gravano, and A. Paepcke
-  code: .nan
-  comments: .nan
   conf: JCDL 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Metadata for Digital Libraries: Architecture and Design Rationale'
   url: '#'
 - authors: L. Gravano, C.-C. K. Chang, H. Garcia-Molina, and A. Paepcke
-  code: .nan
-  comments: .nan
   conf: SIGMOD 1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'STARTS: Stanford Proposal for Internet Meta-Searching'
   url: '#'
 - authors: L. Gravano
-  code: .nan
-  comments: .nan
   conf: Position paper for the NSF-EU Digital Library Collaboratory Working Group,
     1997
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Resource Indexing and Discovery In a Globally Distributed Digital Library
-  url: .nan
 - authors: L. Gravano
-  code: .nan
-  comments: .nan
   conf: 'Ph.D. Dissertation, Stanford University (advisor: H. Garcia-Molina), August
     1997'
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Querying Multiple Document Collections across the Internet
-  url: .nan
 - authors: D. Chatziantoniou and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: VLDB 1996
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Querying Multiple Features of Groups in Relational Databases
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/groups.ps
 - authors: K. A. Ross, D. Srivastava, and S. Sudarshan
-  code: .nan
-  comments: .nan
   conf: SIGMOD 1996
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Materialized View Maintenance and Integrity Constraint Checking: Trading
     Space for Time'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/spacetime.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: ACM Transactions on Database Systems 1996
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Tail Recursion Elimination in Deductive Databases
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/tailrecursion.ps
 - authors: H. Garcia-Molina, L. Gravano, and N. Shivakumar
-  code: .nan
-  comments: .nan
   conf: "PDIS 1996\r\n"
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'dSCAM: Finding Document Copies across Multiple Databases'
   url: '#'
 - authors: S. Chaudhuri and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIGMOD 1996
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Optimizing Queries over Multimedia Repositorie
   url: '#'
 - authors: S. Chaudhuri and L. Gravano
-  code: .nan
-  comments: .nan
   conf: IEEE Data Eng. Bull 1996
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Optimizing Queries over Multimedia Repositories
-  url: .nan
 - authors: L. Gravano, C.-C. K. Chang, H. Garcia-Molina, and A. Paepcke
-  code: .nan
-  comments: .nan
   conf: Position paper for the 1996 World-Wide Web Consortium (W3C) Distributed Indexing/Searching
     Workshop 1996
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Informal Internet Standards at Stanford
-  url: .nan
 - authors: A. Gupta, I. S. Mumick, J. Rao, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 1995
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Adapting Materialized Views After Redefinitions: Techniques and a Performance
     Study'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/adaptation.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Fourth International Conference on Deductive and Object-Oriented Databases
     1995
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Efficiently Following Object References for Large Object Collections and
     Small Main Memory
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/oojive.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PODS 1995
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Structural Totality and Constraint Stratification
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/stot.ps
 - authors: Z. Li and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: CIKM 1995
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'PERF Join: An Alternative To Semijoin and Bloom Join'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/perf.ps
 - authors: L. Gravano and H. Garcia-Molina
-  code: .nan
-  comments: .nan
   conf: "VLDB 1995\r\n"
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies
   url: '#'
 - authors: R. Ramakrishnan, K. A. Ross, D. Srivastava, and S. Sudarshan
-  code: .nan
-  comments: .nan
   conf: International Symposium on Logic Programming 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Efficient Incremental Evaluation of Queries with Aggregation
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/incagg.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: International Symposium on Logic Programming 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: A Syntactic Stratification Condition Using Constraints
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/sproc.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: ICLP Workshop on Deductive Databases 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Constraint Stratification in Deductive Databases
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/cstratddb.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: JCSS 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Modular Stratification and Magic Sets for Datalog Programs with Negation
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/modstrat.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Journal of Logic Programming 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: On Negation in HiLog
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/hilog.ps
 - authors: R. Cypher and L. Gravano
-  code: .nan
-  comments: .nan
   conf: TC 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Storage-Efficient, Deadlock-Free Packet Routing Algorithms for Torus Networks
   url: http://www1.cs.columbia.edu/~gravano/Papers/1994/IEEE_tc94.ps
 - authors: R. Cypher and L. Gravano
-  code: .nan
-  comments: .nan
   conf: SIAM Journal on Computing 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Requirements for Deadlock-Free, Adaptive Packet Routing
   url: http://www1.cs.columbia.edu/~gravano/Papers/1994/SIAM_jc94.ps
 - authors: L. Gravano, G. Pifarre, P. Berman, and J. Sanz
-  code: .nan
-  comments: .nan
   conf: TPDS 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Adaptive Deadlock- and Livelock-Free Routing with All Minimal Paths in Torus
     Networks
   url: http://www1.cs.columbia.edu/~gravano/Papers/1994/tpdsDec94.pdf
 - authors: G. Pifarre, L. Gravano, G. Denicolay, and J. Sanz
-  code: .nan
-  comments: .nan
   conf: TPDS 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Adaptive Deadlock- and Livelock-Free Routing in the Hypercube Network
   url: http://www1.cs.columbia.edu/~gravano/Papers/1994/tpdsNov94.pdf
 - authors: G. Pifarre, L. Gravano, S. Felperin, and J. Sanz
-  code: .nan
-  comments: .nan
   conf: TPDS 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Fully Adaptive Minimal Deadlock-Free Packet Routing in Hypercubes, Meshes,
     and Other Networks: Algorithms and Simulations'
   url: http://www1.cs.columbia.edu/~gravano/Papers/1994/tpdsMar94.pdf
 - authors: L. Gravano, H. Garcia-Molina, and A. Tomasic
-  code: .nan
-  comments: .nan
   conf: PDIS 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Precision and Recall of GlOSS Estimators for Database Discovery
   url: '#'
 - authors: L. Gravano, H. Garcia-Molina, and A. Tomasic
-  code: .nan
-  comments: .nan
   conf: SIGMOD 1994
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: The Effectiveness of GlOSS for the Text-Database Discovery Problem
   url: '#'
 - authors: I. S. Mumick and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Third International Conference on Deductive and Object-Oriented Databases
     1993
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: '`Noodle: A Language for Declarative Querying in an Object-Oriented Database'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/noodle.ps
 - authors: I. S. Mumick and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: JILPS Workshop on Deductive Databases 1992
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: An Architecture for Declarative Object-Oriented Databases
   url: '#'
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PODS 1992
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Relations with Relation Names as Arguments: Algebra and Calculus'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/relationnames.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Journal of Logic Programming 1992
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: A Procedural Semantics for Well-Founded Negation in Logic Programs
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/procedural.ps
 - authors: R. Cypher and L. Gravano
-  code: .nan
-  comments: .nan
   conf: PODC 1992
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Requirements for Deadlock-Free, Adaptive Packet Routing
   url: '#'
 - authors: R. Cypher and L. Gravano
-  code: .nan
-  comments: .nan
   conf: ICPP 1992
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Adaptive, Deadlock-Free Packet Routing in Torus Networks with Minimal Storage
   url: '#'
 - authors: P. Berman, L. Gravano, G. Pifarre, and J. Sanz
-  code: .nan
-  comments: .nan
   conf: SPAA 1992
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Adaptive Deadlock- and Livelock-Free Routing with All Minimal Paths in Torus
     Networks
   url: '#'
 - authors: L. Gravano, G. Pifarre, G. Denicolay, and J. Sanz
-  code: .nan
-  comments: .nan
   conf: IPPS 1992
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Adaptive Deadlock-Free Worm-Hole Routing in Hypercubes
   url: '#'
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PODS 1991
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Modular Acyclicity and Tail Recursion in Logic Programs
   url: http://dl.acm.org/citation.cfm?id=113422
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PODS 1991
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: On Negation in HiLog
   url: http://www.cs.columbia.edu/~kar/pubsk/hilog.ps
 - authors: G. K. Robinson and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: Bulk Solids Handling 1991
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Blending in the Ends of Chevron Stockpiles
   url: '#'
 - authors: A. V. Gelder, K. A. Ross, and J. S. Schlipf
-  code: .nan
-  comments: .nan
   conf: JACM 1991
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: The Well-Founded Semantics for General Logic Programs
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/wfjacm.ps
 - authors: G. Phipps, M. A. Derr, and K. A. Ross
-  code: .nan
-  comments: .nan
   conf: SIGMOD 1991
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Glue-Nail: A Deductive Database System'
   url: http://www.cs.columbia.edu/%7Ekar/pubsk/gluenail.ps
 - authors: S. Felperin, L. Gravano, G. Pifarre, and J. Sanz
-  code: .nan
-  comments: .nan
   conf: SC 1991
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: 'Fully-Adaptive Routing: Packet Switching Performance and Worm-Hole Algorithms'
   url: '#'
 - authors: G. Pifarre, L. Gravano, S. Felperin, and J. Sanz
-  code: .nan
-  comments: .nan
   conf: SPAA 1991
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Fully-Adaptive Minimal Deadlock-Free Packet Routing in Hypercubes, Meshes,
     and Other Networks
   url: '#'
 - authors: S. Felperin, L. Gravano, G. Pifarre, and J. Sanz
-  code: .nan
-  comments: .nan
   conf: Proceedings of the IEEE 1991
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Routing Techniques for Massively Parallel Communication
-  url: .nan
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PODS 1990
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Modular Stratification and Magic Sets for Datalog Programs with Negation
   url: http://www.cs.columbia.edu/~kar/pubsk/modstrat.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: PODS 1989
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: A Procedural Semantics for Well-Founded Negation in Logic Programs
   url: http://www.cs.columbia.edu/~kar/pubsk/procedural.ps
 - authors: K. A. Ross
-  code: .nan
-  comments: .nan
   conf: First International Conference on Deductive and Object Oriented Databases
     1989
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: The Well-Founded Semantics for Disjunctive Logic Programs
   url: '#'
 - authors: A. V. Gelder, K. A. Ross, and J. S. Schlipf
-  code: .nan
-  comments: .nan
   conf: PODS 1988
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Unfounded Sets and Well-Founded Semantics for General Logic Programs
   url: http://dl.acm.org/citation.cfm?id=308444
 - authors: K. A. Ross and R. W. Topor
-  code: .nan
-  comments: .nan
   conf: Journal of Automated Reasoning 1988
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Inferring Negative Information From Disjunctive Databases
   url: http://link.springer.com/article/10.1007/BF00297247
 - authors: K. A. Ross and C. J. Thompson
-  code: .nan
-  comments: .nan
   conf: Physica 1986
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Iteration of Some Discretizations of the Nonlinear Schrodinger Equation
   url: http://dx.doi.org/10.1016/0378-4371(86)90159-7
 - authors: C. J. Thompson, K. A. Ross, B. J. P. Thompson, and M. Lakshmanan
-  code: .nan
-  comments: .nan
   conf: Physica 1985
-  selected: .nan
-  slides: .nan
   tags:
   - nan
   title: Chaotic Planar States of the Discrete Dynamical Anisotropic Heisenberg Spin
