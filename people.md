@@ -131,6 +131,21 @@ color: "#de24c7"
             img: "39",
             name: "Wangda Zhang"
           },
+          {
+            url: "http://haneensa.github.io/",
+            img: "haneen",
+            name: "Haneen Mohammed"
+          },
+          {
+            url: "http://yiliangs.com/",
+            img: "yiliangs",
+            name: "Yiliang Shi"
+          },
+          {
+            url: "https://ireneruru.github.io/",
+            img: "yiru",
+            name: "Yiru Chen"
+          },
          ]
       },
       {
