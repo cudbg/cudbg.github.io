@@ -21,6 +21,7 @@ Below is a list of outside speakers.
 
 ## News
 
+* Oct 2018: Hosting the [New York Database Day 2018](http://cudbg.github.io/lab/nydbday), on November 10th, 2018.
 * February 2018: Ioannis Paparrizos successfully defended his Ph.D. thesis!
 * September 2017: Orestis Polychroniou successfully defended his Ph.D. thesis!
 * June 2016: Eva Sitaridi successfully defended her Ph.D. thesis.
