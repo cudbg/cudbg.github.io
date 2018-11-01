@@ -112,7 +112,7 @@ color: "#de24c7"
             name: "Lampros Flokas"
           },
           {
-            url: "#", //"http://teffland.github.io/",
+            url: "https://gkaramanolakis.github.io/",
             img: "giannis",
             name: "Giannis Karamanolakis"
           },
