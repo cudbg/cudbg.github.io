@@ -17,6 +17,12 @@
 #   tags: you can ignore this attribute
 #
 #
+- authors: Orestis Polychroniou, Wangda Zhang, Kenneth A. A. Ross
+  conf: TODS 2018
+  tags:
+  - nan
+  title: Distributed Joins and Data Placement for Minimal Network Traffic
+  url: https://dl.acm.org/citation.cfm?id=3241039
 - title: 'Ten Years of Web Tables'
   authors: Michael Cafarella, Alon Halevy, Daisy Zhe Wang, Hongrae Lee, Jayant Madhavan, Cong Yu, Eugene Wu,
   url: https://www.dropbox.com/s/y3xlfstgoq8a221/webtables-vldb18.pdf?dl=0,
@@ -194,7 +200,7 @@
   title: 'SampleClean: Fast and Reliable Analytics on Dirty Data'
   url: http://sirrice.github.io/files/papers/sampleclean-overview.pdf
 - authors: L. Wu, A. Lottarini, T. K. Paine, M. A. Kim, K. A. Ross
-  conf: IEEE MICRO
+  conf: IEEE MICRO 2015
   selected: true
   tags:
   - nan
@@ -265,7 +271,7 @@
   title: The Case for Data Visualization Management Systems
   url: http://sirrice.github.io/files/papers/ermac-vldb14.pdf
 - authors: 'L. Wu, R. J. Barker, M. A. Kim, K. A. Ross:'
-  conf: IEEE MICRO
+  conf: IEEE MICRO 2014
   selected: true
   tags:
   - nan
