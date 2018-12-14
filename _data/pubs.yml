@@ -439,7 +439,7 @@
   tags:
   - nan
   title: Path Processing Using Solid State Storage
-  url: '#'
+  url: http://www.adms-conf.org/athanassoulis_adms12.pdf
 - authors: E. Sitaridi and K. A. Ross
   conf: DAMON 2012 (Best Paper Award winner.)
   tags:
@@ -1669,7 +1669,7 @@
   tags:
   - nan
   title: The Well-Founded Semantics for Disjunctive Logic Programs
-  url: '#'
+  url: https://www.sciencedirect.com/science/article/pii/B9780444884336500290
 - authors: A. V. Gelder, K. A. Ross, and J. S. Schlipf
   conf: PODS 1988
   tags:
