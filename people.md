@@ -142,7 +142,7 @@ color: "#de24c7"
             name: "Yiliang Shi"
           },
           {
-            url: "https://ireneruru.github.io/",
+            url: "https://www.cs.columbia.edu/~chen1ru/",
             img: "yiru",
             name: "Yiru Chen"
           },
