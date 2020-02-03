@@ -1,0 +1,120 @@
+present:
+ - rule: Faculty
+   ppl:
+    - name: Luis Gravano
+      url:  http://www.cs.columbia.edu/~gravano
+      img: 1
+    - name: Kenneth Ross
+      url: http://www.cs.columbia.edu/~kar
+      img: 2
+    - url: http://www.eugenewu.net
+      img: 41
+      name: Eugene Wu
+    - url: http://www.cs.columbia.edu/~mihalis
+      img: 11
+      name: Mihalis Yannakakis
+
+
+
+ - rule: Ph.D. Students
+   ppl:
+    - name: Haneen Mohammed
+      url: http://haneensa.github.io/
+      img: haneen
+      rule: PhD
+    - url: "#"
+      img: lampros
+      name: Lampros Flokas
+    - url: https://gkaramanolakis.github.io/
+      img: giannis
+      name: Giannis Karamanolakis
+    - url: http://zwd.nyc
+      img: 39
+      name: Wangda Zhang
+    - url: https://www.cs.columbia.edu/~chen1ru/
+      img: yiru
+      name: Yiru Chen
+    - url: http://www.columbia.edu/~zh2408/#
+      img: zach
+      name: Zachary Huang
+alumni:
+  - url: http://www.cs.columbia.edu/~fotis
+    name: Fotis Psallidas
+  - url: http://sellam.me
+    name: Thibault Sellam
+  - url: http://www.cs.columbia.edu/~jopa/
+    name: Ioannis Paparrizos
+  - url: http://teffland.github.io/
+    img: tom
+    name: Tom Effland
+  - url: http://www.mathcs.emory.edu/~eugene/
+    name: Eugene Agichtein
+    status: Associate Professor, <a href="http://www.mathcs.emory.edu/" target="_blank">Department of Mathematics and Computer Science, Emory University</a>
+  - url: http://www.cs.columbia.edu/~pjbarrio
+    name: Pablo Barri
+    status: Software Engineer, <a href="http://www.google.com/" target="_blank">Google</a>
+  - url: http://www.cs.columbia.edu/~hila
+    name: Hila Becke
+    status: Software Engineer, <a href="http://www.google.com/" target="_blank">Google</a>
+  - url: http://www.cs.columbia.edu/~nicolas/
+    name: Nicolas Brun
+    status: Software Engineer, <a href="http://www.google.com/" target="_blank">Google</a>
+  - url: http://www.dmst.aueb.gr/damianos/
+    name: Damianos Chatziantoniou
+    status: Associate Professor, <a href="http://www.dmst.aueb.gr/index.php/el/" target="_blank"> Department of Management Science and Technology, Athens University of Economics and Business</a>
+  - url: http://www.cs.columbia.edu/~johnc
+    name: John Cieslewic
+    status: Software Engineer, <a href="http://www.google.com/" target="_blank">Google</a>
+  - url: http://www.cs.columbia.edu/~wisam
+    name: Wisam Dakka
+    status: Software Engineer, <a href="http://www.snap.com/en-US/" target="_blank">Snapchat</a>
+  - url: http://pages.stern.nyu.edu/~panos/
+    name: Panagiotis Ipeirotis
+    status: Professor, <a href="http://www.stern.nyu.edu/" target="_blank">Stern School of Business, New York University</a>
+  - url: http://www.cs.columbia.edu/~alpa
+    name: Alpa Jain
+    status: Software Engineer, <a href="http://www.google.com/" target="_blank">Google</a>
+  - url: http://www-cs.engr.ccny.cuny.edu/~akira
+    name: Akira Kawaguchi
+    status: Professor and Chair, <a href="http://www.ccny.cuny.edu/compsci/" target="_blank"> Department of Computer Science, City College of New York</a>
+  - name: Zhe Li
+    url: #
+  - url: http://www.cs.rutgers.edu/~amelie/
+    name: Amelie Marian
+    status: Associate Professor, <a href="http://www.cs.rutgers.edu/" target="_blank">Department of  Computer Science, Rutgers University</a>
+  - url: http://www.cs.columbia.edu/~orestis
+    name: Orestis Polychroniou
+    status: Software Engineer, <a href="http://aws.amazon.com/" target="_blank">Amazon Web Services</a>
+  - url: http://www.cs.columbia.edu/~junr/
+    name: Jun Rao
+    status: Co-Founder, <a href="http://www.confluent.io/" target="_blank">Confluent</a>
+  - url: https://fenix.tecnico.ulisboa.pt/homepage/ist155840
+    name: Gonçalo Simoes
+    status: Software Engineer, <a href="http://www.google.com/" target="_blank">Google</a>
+  - url: http://www.cs.columbia.edu/~eva/
+    name: Eva Sitaridi
+    status: Software Engineer, <a href="http://aws.amazon.com/redshift/" target="_blank">Amazon RedShift</a>
+  - url: https://www.cs.drexel.edu/~julia/
+    name: Julia Stoyanovich
+    status: Associate Professor, <a href="http://drexel.edu/cci/departments/computer-science/" target="_blank">College of Computing & Informatics, Drexel University</a>
+  - url: https://sites.google.com/site/kazizaman/
+    name: Kazi Zaman
+    status: Vice President of Engineering, <a href="http://www.ea.com/" target="_blank">Electronic Arts</a>
+  - url: http://www.cs.columbia.edu/~jrzhou/
+    name: Jingren Zhou
+    status: Vice President, <a href="http://www.alibabagroup.com/" target="_blank">Alibaba Group</a>
+  - name: Shu-Wie Chen
+  - name: Chris Develder
+    url: http://users.atlantis.ugent.be/cdvelder/
+  - name: Junyan Ding
+  - name: Ioannis Giannakakis
+  - name: Pankaj Kulkarni
+  - name: Hui Lei
+  - name: Lei Liu
+  - name: William Mee
+  - name: Anurag Singla
+  - url: http://www.cs.columbia.edu/~solomon/
+    name: Matthew Solomon
+  - url: http://www.cs.columbia.edu/~yeyang/
+    name: Yang Ye
+  - name: Xiaoning Zhang
