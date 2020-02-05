@@ -1,0 +1,54 @@
+present:
+ - name: Luis Gravano
+   projects:
+    - name: Information Extraction for Public Health
+      url: http://publichealth.cs.columbia.edu/
+    - name: Information Extraction at Columbia
+      url: http://extraction.cs.columbia.edu/
+    - name: Event Identification in Social Media
+ - name: Kenneth Ross
+   projects:
+    - url: http://www.cs.columbia.edu/~kar/cpumem.html
+      name: Database Algorithms for Modern CPU Memory Hierarchies
+    - url: http://arcade.cs.columbia.edu/dpu
+      name: "DPU: Database Processing Unit"
+    - url: http://www.cs.columbia.edu/~kar/gpuproject.html
+      name: Database Processing on GPUs
+ - name: Eugene Wu
+   description: "Eugene Wu heads the <a href='http://cudbg.github.io/lab' target='_blank'>WuLab</a>, focused on tools to accelerate the democratization of data.  His projects include:"
+   projects:
+    - name: Data Visualization Management Systems
+      url: https://cudbg.github.io/lab/dvms
+    - name: Database Explanation
+      url: https://cudbg.github.io/lab/dbexplain
+    - name: Machine Learning Explanation
+      url: https://cudbg.github.io/lab/mlexplain
+    - name: Precision Interfaces
+      url: https://cudbg.github.io/lab/precisioninterface
+    - name: Crowdsourced Data Acquisition
+      url: https://cudbg.github.io/lab/crowdsourcing
+    - name: Data Cleaning for Data Science
+      url: https://cudbg.github.io/lab/cleaning
+past:
+ - url: http://www.cs.columbia.edu/~kar/mapd.html
+   name: Database Parallelism on Multicore Machines
+ - url: http://www.cs.columbia.edu/~kar/snapshot.html
+   name: Rapid Updates and Snapshot-Based Queries Using Multicore Processors
+ - url: http://www.cs.columbia.edu/~kar/fastqueryproj.html
+   name: The Columbia Fast Query Project
+ - url: http://www1.cs.columbia.edu/~allen/ITR/itr2.html
+   name: Computational Tools for Modeling, Visualizing and Analyzing Historic and Archaeological Sites
+ - url: http://www.learn.columbia.edu/bourbonnais
+   name: "Romanesque Architecture of the Bourbonnais: Tools for Discovery"
+ - url: http://magnet.c2b2.columbia.edu/
+   name: Multiscale Analysis of Genomic and Cellular Networks
+ - url: http://rank.cs.columbia.edu/
+   name: "RANK: Top-k query processing"
+ - url: http://snowball.cs.columbia.edu/
+   name: Snowball and QXTract, building blocks for efficient information extraction
+ - url: http://qprober.cs.columbia.edu/
+   name: QProber, a system for automatically classifying and searching "hidden-web" text databases
+ - url: http://sdarts.cs.columbia.edu/
+   name: SDARTS, a protocol and toolkit for metasearching
+ - url: http://geosearch.cs.columbia.edu/
+   name: GeoSearch, a geographically-aware search engine
