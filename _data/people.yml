@@ -37,6 +37,9 @@ present:
     - url: http://www.columbia.edu/~zh2408/#
       img: zach
       name: Zachary Huang
+    - url:  https://rivercold.github.io/
+      img: keyang
+      name: Keyang Xu
 alumni:
   - url: http://www.cs.columbia.edu/~fotis
     name: Fotis Psallidas
