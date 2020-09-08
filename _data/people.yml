@@ -28,9 +28,6 @@ present:
     - url: https://gkaramanolakis.github.io/
       img: giannis
       name: Giannis Karamanolakis
-    - url: http://zwd.nyc
-      img: 39
-      name: Wangda Zhang
     - url: https://www.cs.columbia.edu/~chen1ru/
       img: yiru
       name: Yiru Chen
@@ -41,10 +38,15 @@ present:
       img: keyang
       name: Keyang Xu
 alumni:
+  - url: http://zwd.nyc
+    name: Wangda Zhang
+    status: Microsoft Research
   - url: http://www.cs.columbia.edu/~fotis
     name: Fotis Psallidas
+    status: Microsoft Research
   - url: http://sellam.me
     name: Thibault Sellam
+    status: Google Research
   - url: http://www.cs.columbia.edu/~jopa/
     name: Ioannis Paparrizos
   - url: http://teffland.github.io/
