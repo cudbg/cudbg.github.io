@@ -61,7 +61,7 @@
   conf: DaMoN 2019
   url: https://dl.acm.org/doi/10.1145/3329785.3329928
   selected: true
-  - title: 'Master of None Acceleration: A Comparison of Accelerator Architectures for Analytical Query Processing'
+- title: 'Master of None Acceleration: A Comparison of Accelerator Architectures for Analytical Query Processing'
   authors: Andrea Lottarini, João Pedro Cerqueira, Thomas J. Repetti, Stephen A. Edwards, Kenneth A. Ross, Mingoo Seok, Martha A. Kim
   conf: ISCA 2019
   url: https://dl.acm.org/doi/10.1145/3307650.3322220
