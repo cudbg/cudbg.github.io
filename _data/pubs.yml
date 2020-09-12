@@ -22,27 +22,27 @@
   conf: SIGMOD (demo) 2020
   selected: true
 - title: 'VIP: A SIMD Vectorized Analytical Query Engine'
-  authors: Orestis Polychroniou, Kenneth Ross
+  authors: Orestis Polychroniou, Kenneth A. Ross
   conf: VLDB Journal 2020
   url: https://link.springer.com/article/10.1007/s00778-020-00621-w
   selected: true
 - title: 'Parallel Prefix Sum with SIMD'
-  authors: Wangda Zhang, Yanbin Wang, Kenneth Ross
+  authors: Wangda Zhang, Yanbin Wang, Kenneth A. Ross
   conf: ADMS 2020
   url: http://www.cs.columbia.edu/~kar/pubsk/ADMS2020.pdf
   selected: true
 - title: 'Permutation Index: Exploiting Data Skew for Improved Query Performance'
-  authors: Wangda Zhang, Kenneth Ross
+  authors: Wangda Zhang, Kenneth A. Ross
   conf: ICDE 2020
   url: https://ieeexplore.ieee.org/document/9101793
   selected: true
 - title: 'Exploiting Data Skew for Improved Query Performance'
-  authors: Wangda Zhang, Kenneth Ross
+  authors: Wangda Zhang, Kenneth A. Ross
   conf: IEEE TKDE 2020
   url: https://ieeexplore.ieee.org/document/9130938
   selected: true
 - title: 'Efficient Search over Genomic Short Read Data'
-  authors: Wangda Zhang, Mengdi Lin, Kenneth Ross
+  authors: Wangda Zhang, Mengdi Lin, Kenneth A. Ross
   conf: SSDBM 2020
   url: https://dl.acm.org/doi/10.1145/3400903.3400907
   selected: true
@@ -57,7 +57,7 @@
   url: https://arxiv.org/abs/2001.01902
   selected: true
 - title: 'Towards Practical Vectorized Analytical Query Engines'
-  authors: Orestis Polychroniou, Kenneth Ross
+  authors: Orestis Polychroniou, Kenneth A. Ross
   conf: DaMoN 2019
   url: https://dl.acm.org/doi/10.1145/3329785.3329928
   selected: true
