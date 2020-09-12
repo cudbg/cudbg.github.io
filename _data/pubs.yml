@@ -21,6 +21,31 @@
   authors: Lana Ramjit, Zhaoning Kong, Ravi Netravali, Eugene Wu
   conf: SIGMOD (demo) 2020
   selected: true
+- title: 'VIP: A SIMD Vectorized Analytical Query Engine'
+  authors: Orestis Polychroniou, Kenneth Ross
+  conf: VLDB Journal 2020
+  url: https://link.springer.com/article/10.1007/s00778-020-00621-w
+  selected: true
+- title: 'Parallel Prefix Sum with SIMD'
+  authors: Wangda Zhang, Yanbin Wang, Kenneth Ross
+  conf: ICDE 2020
+  url: http://www.cs.columbia.edu/~kar/pubsk/ADMS2020.pdf
+  selected: true
+- title: 'Permutation Index: Exploiting Data Skew for Improved Query Performance'
+  authors: Wangda Zhang, Kenneth Ross
+  conf: ADMS 2020
+  url: https://ieeexplore.ieee.org/document/9101793
+  selected: true
+- title: 'Exploiting Data Skew for Improved Query Performance'
+  authors: Wangda Zhang, Kenneth Ross
+  conf: IEEE TKDE 2020
+  url: https://ieeexplore.ieee.org/document/9130938
+  selected: true
+- title: 'Efficient Search over Genomic Short Read Data'
+  authors: Wangda Zhang, Mengdi Lin, Kenneth Ross
+  conf: SSDBM 2020
+  url: https://dl.acm.org/doi/10.1145/3400903.3400907
+  selected: true
 - title: 'Towards Complaint-driven ML Workflow Debugging'
   authors: Lampros Flokas, Young Wu, Jiannan Wang, Eugene Wu
   conf: MLOps 2020
@@ -30,6 +55,16 @@
   authors: Yiru Chen, Eugene Wu
   conf: Intelligent Process Automation (IPA) 2020
   url: https://arxiv.org/abs/2001.01902
+  selected: true
+- title: 'Towards Practical Vectorized Analytical Query Engines'
+  authors: Orestis Polychroniou, Kenneth Ross
+  conf: DaMoN 2019
+  url: https://dl.acm.org/doi/10.1145/3329785.3329928
+  selected: true
+  - title: 'Master of None Acceleration: A Comparison of Accelerator Architectures for Analytical Query Processing'
+  authors: Andrea Lottarini, João Pedro Cerqueira, Thomas J. Repetti, Stephen A. Edwards, Kenneth A. Ross, Mingoo Seok, Martha A. Kim
+  conf: ISCA 2019
+  url: https://dl.acm.org/doi/10.1145/3307650.3322220
   selected: true
 - title: 'Acorn: Aggressive Result Caching in Spark SQL'
   authors: Alana Ramjit, Matteo Interlandi, Eugene Wu, Ravi Netravali
