@@ -28,12 +28,12 @@
   selected: true
 - title: 'Parallel Prefix Sum with SIMD'
   authors: Wangda Zhang, Yanbin Wang, Kenneth Ross
-  conf: ICDE 2020
+  conf: ADMS 2020
   url: http://www.cs.columbia.edu/~kar/pubsk/ADMS2020.pdf
   selected: true
 - title: 'Permutation Index: Exploiting Data Skew for Improved Query Performance'
   authors: Wangda Zhang, Kenneth Ross
-  conf: ADMS 2020
+  conf: ICDE 2020
   url: https://ieeexplore.ieee.org/document/9101793
   selected: true
 - title: 'Exploiting Data Skew for Improved Query Performance'
