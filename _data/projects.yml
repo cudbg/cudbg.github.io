@@ -8,12 +8,8 @@ present:
     - name: Event Identification in Social Media
  - name: Kenneth Ross
    projects:
-    - url: http://www.cs.columbia.edu/~kar/cpumem.html
-      name: Database Algorithms for Modern CPU Memory Hierarchies
-    - url: http://arcade.cs.columbia.edu/dpu
-      name: "DPU: Database Processing Unit"
-    - url: http://www.cs.columbia.edu/~kar/gpuproject.html
-      name: Database Processing on GPUs
+    - url: https://cudbg.github.io/NSFQueryOpt4Apps/
+      name: Query Optimization for Data Intensive Applications
  - name: Eugene Wu
    description: "Eugene Wu heads the <a href='http://cudbg.github.io/lab' target='_blank'>WuLab</a>, focused on tools to accelerate the democratization of data.  His projects include:"
    projects:
@@ -30,6 +26,12 @@ present:
     - name: Data Cleaning for Data Science
       url: https://cudbg.github.io/lab/cleaning
 past:
+ - url: http://www.cs.columbia.edu/~kar/cpumem.html
+   name: Database Algorithms for Modern CPU Memory Hierarchies
+ - url: http://arcade.cs.columbia.edu/dpu
+   name: "DPU: Database Processing Unit"
+ - url: http://www.cs.columbia.edu/~kar/gpuproject.html
+   name: Database Processing on GPUs
  - url: http://www.cs.columbia.edu/~kar/mapd.html
    name: Database Parallelism on Multicore Machines
  - url: http://www.cs.columbia.edu/~kar/snapshot.html
