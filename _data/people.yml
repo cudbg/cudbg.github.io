@@ -37,6 +37,9 @@ present:
     - url:  https://rivercold.github.io/
       img: keyang
       name: Keyang Xu
+    - url:  "#"
+      img: kim
+      name: Junyoung Kim
 alumni:
   - url: http://zwd.nyc
     name: Wangda Zhang
