@@ -1,7 +1,7 @@
 ---
 layout: index
 ---
-<img src="./files/images/db_group_photo_fall_2017.jpg" alt="DB Group" width="100%" class="center-block"/>
+<img src="./files/images/db_group_photo_fall_2020.png" alt="DB Group" width="100%" class="center-block"/>
 
 # Columbia University Database Research Group
 
