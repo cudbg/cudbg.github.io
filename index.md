@@ -1,7 +1,43 @@
 ---
 layout: index
 ---
-<img src="./files/images/db_group_photo_fall_2020.png" alt="DB Group" width="100%" class="center-block"/>
+
+<div class="hcontain">
+ <div class="gallery">
+  <figure class="gallery__item gallery__item--11">
+    <img src="./files/images/members/1.jpg" class="gallery__img">
+  </figure>
+  <figure class="gallery__item gallery__item--12">
+    <img src="./files/images/members/2.jpg" class="gallery__img">
+  </figure>
+  <figure class="gallery__item gallery__item--13">
+    <img src="./files/images/members/41.jpg" class="gallery__img">
+  </figure>
+  <figure class="gallery__item gallery__item--14">
+    <img src="./files/images/members/lampros.jpg" class="gallery__img">
+  </figure>
+  <figure class="gallery__item gallery__item--15">
+    <img src="./files/images/members/giannis.jpg" class="gallery__img">
+  </figure>
+
+
+  <figure class="gallery__item gallery__item--21">
+    <img src="./files/images/members/haneen.jpg" class="gallery__img">
+  </figure>
+  <figure class="gallery__item gallery__item--22">
+    <img src="./files/images/members/yiru.jpg" class="gallery__img">
+  </figure>
+  <figure class="gallery__item gallery__item--23">
+    <img src="./files/images/members/zach.jpg" class="gallery__img">
+  </figure>
+  <figure class="gallery__item gallery__item--24">
+    <img src="./files/images/members/keyang.jpg" class="gallery__img">
+  </figure>
+  <figure class="gallery__item gallery__item--25">
+    <img src="./files/images/members/kim.jpg" class="gallery__img">
+  </figure>
+ </div>
+</div>
 
 # Columbia University Database Research Group
 
