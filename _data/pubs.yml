@@ -17,6 +17,11 @@
 #   tags: you can ignore this attribute
 #
 #
+- title: 'Adaptive Code Generation for Data-Intensive Analytics'
+  authors: Wangda Zhang, Junyoung Kim, Kenneth A. Ross, Eric Sedlar, Lucas Stadler
+  conf: VLDB 2021
+  url: http://www.vldb.org/pvldb/vol14/p929-zhang.pdf
+  selected: true
 - title: 'Physical Visualization Design'
   authors: Lana Ramjit, Zhaoning Kong, Ravi Netravali, Eugene Wu
   conf: SIGMOD (demo) 2020
