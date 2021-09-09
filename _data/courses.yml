@@ -5,6 +5,9 @@ present:
  - name: "COMS E6111: Advanced Database Systems"
    url: http://www.cs.columbia.edu/education/courses/#database
    details: "Continuation of COMS W4111, covers latest trends in both database research and industry: information retrieval, web search, data mining, data warehousing, OLAP, decision support, multimedia databases, and XML and databases. Programming projects required."
+ - name: "COMS E6998: Systems for Human Data Interaction"
+   url: https://columbiaviz.github.io/2021f_w6998
+   details: "Human Data Interaction studies the interface between humans and data that help users achieve data-oriented tasks. Further, creating human data interfaces is extremely challenging because the responsiveness of the interface directly depends on the system architecture as well as the interface design. What system innovations are needed to simplify how effective human data interfaces can be created and used?  Human Data Interaction is a nascent field, and we will study modern research in data visualization, HCI, data analysis, and data management systems. We will first survey research in visualization interfaces and data management, then deep dive into the interplay between the two fields, and finally explore how the ideas apply in different application domains."
 past:
  - name: "COMS W4121: Computing Systems for Data Science"
    url: https://w4121.github.io/
