@@ -40,6 +40,9 @@ present:
     - url:  "#"
       img: kim
       name: Junyoung Kim
+    - url:  "#"
+      img: charlie
+      name: Charlie Summer
 alumni:
   - url: http://zwd.nyc
     name: Wangda Zhang
