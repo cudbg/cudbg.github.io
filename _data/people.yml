@@ -43,6 +43,15 @@ present:
     - url:  "#"
       img: charlie
       name: Charlie Summer
+    - url:  https://www.edenshaveet.com
+      img: eden
+      name: Eden Shaveet
+    - url:  https://jerrrrryl.github.io/
+      img: jerry
+      name: Jiaxiang(Jerry) Liu
+    - url:  https://www.matoles.com
+      img: matthew
+      name: Matthew Toles
 alumni:
   - url: http://zwd.nyc
     name: Wangda Zhang
