@@ -17,10 +17,60 @@
 #   tags: you can ignore this attribute
 #
 #
+- title: 'JoinBoost: Grow Trees Over Normalized Data Using Only SQL'
+  authors: Zezhou Huang, Rathijit Sen, Jiaxiang Liu, Eugene Wu
+  conf: VLDB 2023
+  url: https://dl.acm.org/doi/10.14778/3611479.3611509
+  selected: true
+- title: 'Saibot: A Differentially Private Data Search Platform'
+  authors: Zezhou Huang, Jiaxiang Liu, Daniel Alabi, Raul Castro Fernandez, Eugene Wu
+  conf: VLDB 2023
+  url: https://dl.acm.org/doi/abs/10.14778/3611479.3611508
+  selected: true
+- title: 'GAMUT: Matrix Multiplication-Like Tasks on GPUs'
+  authors: Xincheng Xie, Junyoung Kim, Kenneth Ross
+  conf: ADMS 2023
+  url: https://ceur-ws.org/Vol-3462/ADMS6.pdf
+  selected: true
+- title: 'Amulet: Adaptive matrix-multiplication-like tasks'
+  authors: Junyoung Kim, Kenneth A Ross, Eric Sedlar, Lukas Stadler
+  conf: DaMoN 2023
+  url: https://dl.acm.org/doi/pdf/10.1145/3592980.3595301
+  selected: true
+- title: 'Interactive Interface Generation in Notebooks'
+  authors: Jeffrey Tao, Yiru Chen, Eugene Wu
+  conf: SIGMOD (demo) 2022
+  url: https://www.dropbox.com/s/s1p1byz7tlquj5v/pi2-sigmod22demo-camera.pdf?dl=0
+  selected: true
+- title: 'PI2: Generating Visual Analysis Interfaces From Queries'
+  authors: Yiru Chen, Eugene Wu
+  conf: SIGMOD 2022
+  url: https://www.dropbox.com/s/bfs2qclp9slwfvi/pi-sigmod22-camera.pdf?dl=0
+  selected: true
+- title: 'Reptile: Aggregation-level Explanations for Hierarchical Data'
+  authors: Zachary Huang, Eugene Wu
+  conf: SIGMOD 2022
+  url: https://arxiv.org/pdf/2103.07037.pdf
+  selected: true
+- title: 'Enabling SQL-based training data debugging for federated learning'
+  authors: Young Wu, Yejia Liu, Lampros Flokas, Jiannan Wang, Eugene Wu
+  conf: VLDB 2022
+  url: https://arxiv.org/pdf/2108.11884.pdf
+  selected: true
+- title: 'Complaint-Driven Training Data Debugging at Interactive Speeds'
+  authors: Lampros Flokas, Young Wu, Jiannan Wang, Nakul Verma, Eugene Wu
+  conf: SIGMOD 2022
+  url: https://www.dropbox.com/s/qrwcyy7ln91492k/rainpp-sigmod22-camera.pdf?dl=0
+  selected: true
 - title: 'Adaptive Code Generation for Data-Intensive Analytics'
   authors: Wangda Zhang, Junyoung Kim, Kenneth A. Ross, Eric Sedlar, Lucas Stadler
   conf: VLDB 2021
   url: http://www.vldb.org/pvldb/vol14/p929-zhang.pdf
+  selected: true
+- title: 'Quantifying the effects of COVID-19 on restaurant reviews'
+  authors: Ivy Cao, Zizhou Liu, Giannis Karamanolakis, Daniel Hsu, Luis Gravano
+  conf: SocialNLP 2021
+  url: https://aclanthology.org/2021.socialnlp-1.4.pdf
   selected: true
 - title: 'Physical Visualization Design'
   authors: Lana Ramjit, Zhaoning Kong, Ravi Netravali, Eugene Wu

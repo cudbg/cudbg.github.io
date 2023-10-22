@@ -10,11 +10,15 @@ present:
     - url: http://www.eugenewu.net
       img: 41
       name: Eugene Wu
+
+ - rule: Affiliated Faculty
+   ppl:
+    - url: https://stanford.edu/~kkaffes/
+      img: kostis
+      name: Kostis Kaffes
     - url: http://www.cs.columbia.edu/~mihalis
       img: 11
       name: Mihalis Yannakakis
-
-
 
  - rule: Ph.D. Students
    ppl:
@@ -22,12 +26,6 @@ present:
       url: http://haneensa.github.io/
       img: haneen
       rule: PhD
-    - url: "#"
-      img: lampros
-      name: Lampros Flokas
-    - url: https://gkaramanolakis.github.io/
-      img: giannis
-      name: Giannis Karamanolakis
     - url: https://www.cs.columbia.edu/~chen1ru/
       img: yiru
       name: Yiru Chen
@@ -42,17 +40,25 @@ present:
       name: Junyoung Kim
     - url:  "#"
       img: charlie
-      name: Charlie Summer
+      name: Charlie Summers
     - url:  https://www.edenshaveet.com
       img: eden
       name: Eden Shaveet
     - url:  https://jerrrrryl.github.io/
       img: jerry
       name: Jiaxiang(Jerry) Liu
+    - url: "#"
+      img: person_placeholder
+      name: Haonan Wang
     - url:  https://www.matoles.com
       img: matthew
       name: Matthew Toles
 alumni:
+  - name: Lampros Flokas
+    url: #
+  - url: https://gkaramanolakis.github.io/
+    name: Giannis Karamanolakis
+    status: Amazon Alexa AI
   - url: http://zwd.nyc
     name: Wangda Zhang
     status: Microsoft Research
