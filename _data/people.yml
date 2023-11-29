@@ -50,12 +50,10 @@ present:
     - url: "#"
       img: haonan
       name: Haonan Wang
-    - url:  https://www.matoles.com
-      img: matthew
-      name: Matthew Toles
 alumni:
   - name: Lampros Flokas
     url: #
+    status: Celonis
   - url: https://gkaramanolakis.github.io/
     name: Giannis Karamanolakis
     status: Amazon Alexa AI
